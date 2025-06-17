@@ -1,0 +1,346 @@
+['Shahbaz Ahmed', 'Shahrukh Khan', 'KL Rahul', 'Mahipal Lomror', 'Moeen Ali', 'Ravi Bishnoi', 'Deepak Hooda', 'TILAK VERMA', 'RINKU SINGH', 'Riyan Parag', 'Chetan Sakariya']
+rr won the toss and chose to field
+0.1 Kagiso Rabada to TILAK VERMA 1 Score: 1/0
+0.2 Kagiso Rabada to KL Rahul 1 Score: 2/0
+0.3 Kagiso Rabada to TILAK VERMA 0 Score: 2/0
+0.4 Kagiso Rabada to TILAK VERMA 2 Score: 4/0
+0.5 Kagiso Rabada to TILAK VERMA 0 Score: 4/0
+0.6 Kagiso Rabada to TILAK VERMA 1 B! Score: 5/0
+1.1 Andre Russell to TILAK VERMA 0 Score: 5/0
+1.2 Andre Russell to TILAK VERMA 1 Score: 6/0
+1.3 Andre Russell to KL Rahul 4 Score: 10/0
+1.4 Andre Russell to KL Rahul 0 Score: 10/0
+1.5 Andre Russell to KL Rahul 2 Score: 12/0
+1.6 Andre Russell to KL Rahul 1 Score: 13/0
+2.1 Kagiso Rabada to KL Rahul 1 Score: 14/0
+2.2 Kagiso Rabada to TILAK VERMA 1 Score: 15/0
+2.3 Kagiso Rabada to KL Rahul 4 Score: 19/0
+2.4 Kagiso Rabada to KL Rahul 0 Score: 19/0
+2.5 Kagiso Rabada to KL Rahul 4 Score: 23/0
+2.6 Kagiso Rabada to KL Rahul 4 Score: 27/0
+3.1 Andre Russell to TILAK VERMA 4 Score: 31/0
+3.2 Andre Russell to TILAK VERMA 2 Score: 33/0
+3.3 Andre Russell to TILAK VERMA 4 Score: 37/0
+3.4 Andre Russell to TILAK VERMA W Score: 37/1 Caught
+3.5 Andre Russell to Moeen Ali 0 Score: 37/1
+3.6 Andre Russell to Moeen Ali 1 Score: 38/1
+4.1 Yuzvendra Chahal to Moeen Ali 6 Score: 44/1
+4.2 Yuzvendra Chahal to Moeen Ali 0 Score: 44/1
+4.3 Yuzvendra Chahal to Moeen Ali W Score: 45/2 Run Out (1r)
+4.4 Yuzvendra Chahal to Deepak Hooda 1 Score: 46/2
+4.5 Yuzvendra Chahal to KL Rahul 1 Score: 47/2
+4.6 Yuzvendra Chahal to Deepak Hooda 0 Score: 47/2
+5.1 Mohammed Siraj to KL Rahul 1 Score: 48/2
+5.2 Mohammed Siraj to Deepak Hooda 1 Score: 49/2
+5.3 Mohammed Siraj to KL Rahul 0 Score: 49/2
+5.4 Mohammed Siraj to KL Rahul 0 Score: 49/2
+5.5 Mohammed Siraj to KL Rahul 1 Score: 50/2
+5.6 Mohammed Siraj to Deepak Hooda 1 LB! Score: 51/2
+6.1 Lalit Yadav to Deepak Hooda 1 Score: 52/2
+6.2 Lalit Yadav to KL Rahul 0 Score: 52/2
+6.3 Lalit Yadav to KL Rahul W Score: 52/3 Bowled
+6.4 Lalit Yadav to Mahipal Lomror 0 Score: 52/3
+6.5 Lalit Yadav to Mahipal Lomror 1 Score: 53/3
+6.6 Lalit Yadav to Deepak Hooda 0 Score: 53/3
+7.1 Kartik Tyagi to Mahipal Lomror 0 Score: 53/3
+7.2 Kartik Tyagi to Mahipal Lomror 0 Score: 53/3
+7.3 Kartik Tyagi to Mahipal Lomror 0 Score: 53/3
+7.4 Kartik Tyagi to Mahipal Lomror 0 Score: 53/3
+7.5 Kartik Tyagi to Mahipal Lomror 0 Score: 53/3
+7.6 Kartik Tyagi to Mahipal Lomror 1 Score: 54/3
+8.1 Kagiso Rabada to Mahipal Lomror 1 Score: 55/3
+8.2 Kagiso Rabada to Deepak Hooda 0 Score: 55/3
+8.3 Kagiso Rabada to Deepak Hooda 1 Score: 56/3
+8.4 Kagiso Rabada to Mahipal Lomror 1 Score: 57/3
+8.5 Kagiso Rabada to Deepak Hooda 0 Score: 57/3
+8.6 Kagiso Rabada to Deepak Hooda 1 Score: 58/3
+9.1 Andre Russell to Deepak Hooda 0 Score: 58/3
+9.2 Andre Russell to Deepak Hooda 1 LB! Score: 59/3
+9.3 Andre Russell to Mahipal Lomror 4 Score: 63/3
+9.4 Andre Russell to Mahipal Lomror 1 Score: 64/3
+9.5 Andre Russell to Deepak Hooda 2 Score: 66/3
+9.6 Andre Russell to Deepak Hooda 6 Score: 72/3
+10.1 Yuzvendra Chahal to Mahipal Lomror 2 Score: 74/3
+10.2 Yuzvendra Chahal to Mahipal Lomror 1 Score: 75/3
+10.3 Yuzvendra Chahal to Deepak Hooda 1 Score: 76/3
+10.4 Yuzvendra Chahal to Mahipal Lomror 1 Score: 77/3
+10.5 Yuzvendra Chahal to Deepak Hooda 1 Score: 78/3
+10.6 Yuzvendra Chahal to Mahipal Lomror 0 Score: 78/3
+11.1 Mohammed Siraj to Deepak Hooda 1 Score: 79/3
+11.2 Mohammed Siraj to Mahipal Lomror 1 Score: 80/3
+11.3 Mohammed Siraj to Deepak Hooda 0 Score: 80/3
+11.4 Mohammed Siraj to Deepak Hooda 0 Score: 80/3
+11.5 Mohammed Siraj to Deepak Hooda W Score: 80/4 Caught
+11.6 Mohammed Siraj to Shahbaz Ahmed 0 Score: 80/4
+12.1 Lalit Yadav to Mahipal Lomror 1 Score: 81/4
+12.2 Lalit Yadav to Shahbaz Ahmed 1 Score: 82/4
+12.3 Lalit Yadav to Mahipal Lomror 1 Score: 83/4
+12.4 Lalit Yadav to Shahbaz Ahmed 1 Score: 84/4
+12.5 Lalit Yadav to Mahipal Lomror 1 Score: 85/4
+12.6 Lalit Yadav to Shahbaz Ahmed 1 Score: 86/4
+13.1 Kartik Tyagi to Shahbaz Ahmed 0 Score: 86/4
+13.2 Kartik Tyagi to Shahbaz Ahmed Wide Score: 87/4
+13.2 Kartik Tyagi to Shahbaz Ahmed 1 Score: 88/4
+13.3 Kartik Tyagi to Mahipal Lomror 1 Score: 89/4
+13.4 Kartik Tyagi to Shahbaz Ahmed 0 Score: 89/4
+13.5 Kartik Tyagi to Shahbaz Ahmed 1 Score: 90/4
+13.6 Kartik Tyagi to Mahipal Lomror 0 Score: 90/4
+14.1 Kagiso Rabada to Shahbaz Ahmed 2 Score: 92/4
+14.2 Kagiso Rabada to Shahbaz Ahmed 0 Score: 92/4
+14.3 Kagiso Rabada to Shahbaz Ahmed 4 Score: 96/4
+14.4 Kagiso Rabada to Shahbaz Ahmed 0 Score: 96/4
+14.5 Kagiso Rabada to Shahbaz Ahmed 2 Score: 98/4
+14.6 Kagiso Rabada to Shahbaz Ahmed 1 Score: 99/4
+15.1 Andre Russell to Shahbaz Ahmed 1 Score: 100/4
+15.2 Andre Russell to Mahipal Lomror 1 Score: 101/4
+15.3 Andre Russell to Shahbaz Ahmed 4 Score: 105/4
+15.4 Andre Russell to Shahbaz Ahmed 1 Score: 106/4
+15.5 Andre Russell to Mahipal Lomror 0 Score: 106/4
+15.6 Andre Russell to Mahipal Lomror 2 Score: 108/4
+16.1 Yuzvendra Chahal to Shahbaz Ahmed 0 Score: 108/4
+16.2 Yuzvendra Chahal to Shahbaz Ahmed 1 Score: 109/4
+16.3 Yuzvendra Chahal to Mahipal Lomror 1 Score: 110/4
+16.4 Yuzvendra Chahal to Shahbaz Ahmed 0 Score: 110/4
+16.5 Yuzvendra Chahal to Shahbaz Ahmed 4 Score: 114/4
+16.6 Yuzvendra Chahal to Shahbaz Ahmed 0 Score: 114/4
+17.1 Mohammed Siraj to Mahipal Lomror 0 Score: 114/4
+17.2 Mohammed Siraj to Mahipal Lomror 1 Score: 115/4
+17.3 Mohammed Siraj to Shahbaz Ahmed 0 Score: 115/4
+17.4 Mohammed Siraj to Shahbaz Ahmed 1 Score: 116/4
+17.5 Mohammed Siraj to Mahipal Lomror W Score: 116/5 Caught
+17.6 Mohammed Siraj to Riyan Parag 0 Score: 116/5
+18.1 Lalit Yadav to Shahbaz Ahmed W Score: 116/6 Caught
+18.2 Lalit Yadav to Shahrukh Khan 4 Score: 120/6
+18.3 Lalit Yadav to Shahrukh Khan 1 Score: 121/6
+18.4 Lalit Yadav to Riyan Parag 4 Score: 125/6
+18.5 Lalit Yadav to Riyan Parag 1 Score: 126/6
+18.6 Lalit Yadav to Shahrukh Khan 4 Score: 130/6
+19.1 Kartik Tyagi to Riyan Parag 0 Score: 130/6
+19.2 Kartik Tyagi to Riyan Parag 0 Score: 130/6
+19.3 Kartik Tyagi to Riyan Parag 1 Score: 131/6
+19.4 Kartik Tyagi to Shahrukh Khan 6 Score: 137/6
+19.5 Kartik Tyagi to Shahrukh Khan 1 Score: 138/6
+19.6 Kartik Tyagi to Riyan Parag W Score: 138/7 Caught
++-----------------+--------+---------+--------+--------------------------+
+| Player          |   Runs |   Balls | SR     | Out                      |
++=================+========+=========+========+==========================+
+| Shahbaz Ahmed   |     26 |      25 | 104.0  | Caught b Lalit Yadav     |
++-----------------+--------+---------+--------+--------------------------+
+| M Shahrukh Khan |     16 |       5 | 320.0  | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| KL Rahul        |     24 |      17 | 141.18 | Bowled b Lalit Yadav     |
++-----------------+--------+---------+--------+--------------------------+
+| MK Lomror       |     23 |      29 | 79.31  | Caught b Mohammed Siraj  |
++-----------------+--------+---------+--------+--------------------------+
+| MM Ali          |      8 |       5 | 160.0  | Run Out (1r) b YS Chahal |
++-----------------+--------+---------+--------+--------------------------+
+| Ravi Bishnoi    |      0 |       0 | NA     | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| DJ Hooda        |     16 |      20 | 80.0   | Caught b Mohammed Siraj  |
++-----------------+--------+---------+--------+--------------------------+
+| T VERMA         |     15 |      12 | 125.0  | Caught b AD Russell      |
++-----------------+--------+---------+--------+--------------------------+
+| R SINGH         |      0 |       0 | NA     | DNB                      |
++-----------------+--------+---------+--------+--------------------------+
+| R Parag         |      6 |       7 | 85.71  | Caught b Kartik Tyagi    |
++-----------------+--------+---------+--------+--------------------------+
+| C Sakariya      |      0 |       0 | NA     | DNB                      |
++-----------------+--------+---------+--------+--------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |      7 |       3 |         2 | 2.33  |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |     13 |       3 |         1 | 4.33  |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     21 |       3 |         0 | 7.0   |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     31 |       4 |         0 | 7.75  |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     41 |       4 |         1 | 10.25 |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |     22 |       3 |         2 | 7.33  |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Chetan Sakariya to Quinton de Kock 0 Score: 0/0
+0.2 Chetan Sakariya to Quinton de Kock Wide Score: 1/0
+0.2 Chetan Sakariya to Quinton de Kock 0 Score: 1/0
+0.3 Chetan Sakariya to Quinton de Kock 0 Score: 1/0
+0.4 Chetan Sakariya to Quinton de Kock 6 Score: 7/0
+0.5 Chetan Sakariya to Quinton de Kock 0 Score: 7/0
+0.6 Chetan Sakariya to Quinton de Kock 6 Score: 13/0
+1.1 Moeen Ali to Mayank Agarwal 0 Score: 13/0
+1.2 Moeen Ali to Mayank Agarwal W Score: 13/1 Caught
+1.3 Moeen Ali to AB de Villiers 4 Score: 17/1
+1.4 Moeen Ali to AB de Villiers 0 Score: 17/1
+1.5 Moeen Ali to AB de Villiers 0 Score: 17/1
+1.6 Moeen Ali to AB de Villiers 1 Score: 18/1
+2.1 Shahbaz Ahmed to AB de Villiers 1 Score: 19/1
+2.2 Shahbaz Ahmed to Quinton de Kock 1 Score: 20/1
+2.3 Shahbaz Ahmed to AB de Villiers 0 Score: 20/1
+2.4 Shahbaz Ahmed to AB de Villiers 0 Score: 20/1
+2.5 Shahbaz Ahmed to AB de Villiers 1 Score: 21/1
+2.6 Shahbaz Ahmed to Quinton de Kock 1 Score: 22/1
+3.1 Moeen Ali to Quinton de Kock 0 Score: 22/1
+3.2 Moeen Ali to Quinton de Kock 4 Score: 26/1
+3.3 Moeen Ali to Quinton de Kock 1 Score: 27/1
+3.4 Moeen Ali to AB de Villiers 0 Score: 27/1
+3.5 Moeen Ali to AB de Villiers 0 Score: 27/1
+3.6 Moeen Ali to AB de Villiers 1 Score: 28/1
+4.1 Ravi Bishnoi to AB de Villiers 0 Score: 28/1
+4.2 Ravi Bishnoi to AB de Villiers 1 Score: 29/1
+4.3 Ravi Bishnoi to Quinton de Kock 4 Score: 33/1
+4.4 Ravi Bishnoi to Quinton de Kock 1 Score: 34/1
+4.5 Ravi Bishnoi to AB de Villiers 0 Score: 34/1
+4.6 Ravi Bishnoi to AB de Villiers 1 Score: 35/1
+5.1 Chetan Sakariya to AB de Villiers 1 Score: 36/1
+5.2 Chetan Sakariya to Quinton de Kock 0 Score: 36/1
+5.3 Chetan Sakariya to Quinton de Kock W Score: 36/2 Caught
+5.4 Chetan Sakariya to Wriddhiman Saha 0 Score: 36/2
+5.5 Chetan Sakariya to Wriddhiman Saha NO BALL! Score: 37/2
+5.5 Chetan Sakariya to Wriddhiman Saha 0 Score: 37/2 (Free Hit) (Off No-Ball)
+5.5 Chetan Sakariya to Wriddhiman Saha 4 Score: 41/2 (Free Hit)
+5.6 Chetan Sakariya to Wriddhiman Saha 1 Score: 42/2
+6.1 Deepak Hooda to Wriddhiman Saha 1 Score: 43/2
+6.2 Deepak Hooda to AB de Villiers 4 Score: 47/2
+6.3 Deepak Hooda to AB de Villiers 6 Score: 53/2
+6.4 Deepak Hooda to AB de Villiers 1 Score: 54/2
+6.5 Deepak Hooda to Wriddhiman Saha 4 Score: 58/2
+6.6 Deepak Hooda to Wriddhiman Saha 1 Score: 59/2
+7.1 RINKU SINGH to Wriddhiman Saha 1 Score: 60/2
+7.2 RINKU SINGH to AB de Villiers 4 Score: 64/2
+7.3 RINKU SINGH to AB de Villiers 1 Score: 65/2
+7.4 RINKU SINGH to Wriddhiman Saha 4 Score: 69/2
+7.5 RINKU SINGH to Wriddhiman Saha 6 Score: 75/2
+7.6 RINKU SINGH to Wriddhiman Saha 0 Score: 75/2
+8.1 Shahbaz Ahmed to AB de Villiers W Score: 75/3 Caught
+8.2 Shahbaz Ahmed to Kieron Pollard 1 Score: 76/3
+8.3 Shahbaz Ahmed to Wriddhiman Saha 2 Score: 78/3
+8.4 Shahbaz Ahmed to Wriddhiman Saha 4 Score: 82/3
+8.5 Shahbaz Ahmed to Wriddhiman Saha 1 Score: 83/3
+8.6 Shahbaz Ahmed to Kieron Pollard 2 Score: 85/3
+9.1 Moeen Ali to Wriddhiman Saha 1 Score: 86/3
+9.2 Moeen Ali to Kieron Pollard 0 Score: 86/3
+9.3 Moeen Ali to Kieron Pollard 1 Score: 87/3
+9.4 Moeen Ali to Wriddhiman Saha Wide Score: 88/3
+9.4 Moeen Ali to Wriddhiman Saha 1 Score: 89/3
+9.5 Moeen Ali to Kieron Pollard W Score: 89/4 Caught
+9.6 Moeen Ali to Andre Russell 4 Score: 93/4
+10.1 Ravi Bishnoi to Wriddhiman Saha 4 Score: 97/4
+10.2 Ravi Bishnoi to Wriddhiman Saha W Score: 97/5 Stumped
+10.3 Ravi Bishnoi to Lalit Yadav 0 Score: 97/5
+10.4 Ravi Bishnoi to Lalit Yadav 1 Score: 98/5
+10.5 Ravi Bishnoi to Andre Russell 1 Score: 99/5
+10.6 Ravi Bishnoi to Lalit Yadav 1 Score: 100/5
+11.1 Chetan Sakariya to Lalit Yadav 1 Score: 101/5
+11.2 Chetan Sakariya to Andre Russell W Score: 101/6 Caught
+11.3 Chetan Sakariya to Kagiso Rabada 1 Score: 102/6
+11.4 Chetan Sakariya to Lalit Yadav 1 Score: 103/6
+11.5 Chetan Sakariya to Kagiso Rabada 1 B! Score: 104/6
+11.6 Chetan Sakariya to Lalit Yadav 1 LB! Score: 105/6
+12.1 Deepak Hooda to Lalit Yadav 1 Score: 106/6
+12.2 Deepak Hooda to Kagiso Rabada 1 Score: 107/6
+12.3 Deepak Hooda to Lalit Yadav 1 Score: 108/6
+12.4 Deepak Hooda to Kagiso Rabada W Score: 108/7 Caught
+12.5 Deepak Hooda to Mohammed Siraj 0 Score: 108/7
+12.6 Deepak Hooda to Mohammed Siraj 1 Score: 109/7
+13.1 RINKU SINGH to Mohammed Siraj 1 Score: 110/7
+13.2 RINKU SINGH to Lalit Yadav 0 Score: 110/7
+13.3 RINKU SINGH to Lalit Yadav 1 Score: 111/7
+13.4 RINKU SINGH to Mohammed Siraj 1 Score: 112/7
+13.5 RINKU SINGH to Lalit Yadav 2 Score: 114/7
+13.6 RINKU SINGH to Lalit Yadav 1 Score: 115/7
+14.1 Shahbaz Ahmed to Lalit Yadav 1 Score: 116/7
+14.2 Shahbaz Ahmed to Mohammed Siraj 0 Score: 116/7
+14.3 Shahbaz Ahmed to Mohammed Siraj 0 Score: 116/7
+14.4 Shahbaz Ahmed to Mohammed Siraj 0 Score: 116/7
+14.5 Shahbaz Ahmed to Mohammed Siraj W Score: 116/8 Caught
+14.6 Shahbaz Ahmed to Yuzvendra Chahal 0 Score: 116/8
+15.1 Moeen Ali to Lalit Yadav 1 Score: 117/8
+15.2 Moeen Ali to Yuzvendra Chahal 1 LB! Score: 118/8
+15.3 Moeen Ali to Lalit Yadav 1 Score: 119/8
+15.4 Moeen Ali to Yuzvendra Chahal 1 Score: 120/8
+15.5 Moeen Ali to Lalit Yadav 1 Score: 121/8
+15.6 Moeen Ali to Yuzvendra Chahal 0 Score: 121/8
+16.1 Ravi Bishnoi to Lalit Yadav 0 Score: 121/8
+16.2 Ravi Bishnoi to Lalit Yadav 1 B! Score: 122/8
+16.3 Ravi Bishnoi to Yuzvendra Chahal 1 Score: 123/8
+16.4 Ravi Bishnoi to Lalit Yadav 0 Score: 123/8
+16.5 Ravi Bishnoi to Lalit Yadav 1 Score: 124/8
+16.6 Ravi Bishnoi to Yuzvendra Chahal 0 Score: 124/8
+17.1 Chetan Sakariya to Lalit Yadav 1 Score: 125/8
+17.2 Chetan Sakariya to Yuzvendra Chahal 0 Score: 125/8
+17.3 Chetan Sakariya to Yuzvendra Chahal 0 Score: 125/8
+17.4 Chetan Sakariya to Yuzvendra Chahal Wide Score: 126/8
+17.4 Chetan Sakariya to Yuzvendra Chahal 1 Score: 127/8
+17.5 Chetan Sakariya to Lalit Yadav 0 Score: 127/8
+17.6 Chetan Sakariya to Lalit Yadav W Score: 127/9 Caught
+18.1 Deepak Hooda to Yuzvendra Chahal 1 Score: 128/9
+18.2 Deepak Hooda to Kartik Tyagi 1 Score: 129/9
+18.3 Deepak Hooda to Yuzvendra Chahal 1 Score: 130/9
+18.4 Deepak Hooda to Kartik Tyagi 1 Score: 131/9
+18.5 Deepak Hooda to Yuzvendra Chahal 0 Score: 131/9
+18.6 Deepak Hooda to Yuzvendra Chahal 4 Score: 135/9
+19.1 RINKU SINGH to Kartik Tyagi 1 Score: 136/9
+19.2 RINKU SINGH to Yuzvendra Chahal 0 Score: 136/9
+19.3 RINKU SINGH to Yuzvendra Chahal 4 Score: 140/9
+rr won by 1 wickets
++----------------+--------+---------+--------+------------------------+
+| Player         |   Runs |   Balls |     SR | Out                    |
++================+========+=========+========+========================+
+| Mohammed Siraj |      3 |       8 |  37.5  | Caught b Shahbaz Ahmed |
++----------------+--------+---------+--------+------------------------+
+| MA Agarwal     |      0 |       2 |   0    | Caught b MM Ali        |
++----------------+--------+---------+--------+------------------------+
+| KA Pollard     |      4 |       5 |  80    | Caught b MM Ali        |
++----------------+--------+---------+--------+------------------------+
+| Kartik Tyagi   |      3 |       3 | 100    | Not out                |
++----------------+--------+---------+--------+------------------------+
+| YS Chahal      |     13 |      15 |  86.67 | Not out                |
++----------------+--------+---------+--------+------------------------+
+| AB de Villiers |     27 |      22 | 122.73 | Caught b Shahbaz Ahmed |
++----------------+--------+---------+--------+------------------------+
+| K Rabada       |      2 |       4 |  50    | Caught b DJ Hooda      |
++----------------+--------+---------+--------+------------------------+
+| WP Saha        |     35 |      18 | 194.44 | Stumped b Ravi Bishnoi |
++----------------+--------+---------+--------+------------------------+
+| AD Russell     |      5 |       3 | 166.67 | Caught b C Sakariya    |
++----------------+--------+---------+--------+------------------------+
+| Lalit Yadav    |     16 |      23 |  69.57 | Caught b C Sakariya    |
++----------------+--------+---------+--------+------------------------+
+| Q de Kock      |     24 |      15 | 160    | Caught b C Sakariya    |
++----------------+--------+---------+--------+------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     15 |     3   |         2 | 5.0   |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     23 |     4   |         2 | 5.75  |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     16 |     3   |         1 | 5.33  |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     29 |     3   |         1 | 9.67  |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     27 |     2.3 |         0 | 10.8  |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     26 |     4   |         3 | 6.5   |
++-----------------+--------+---------+-----------+-------+

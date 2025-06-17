@@ -1,0 +1,351 @@
+['Hardik Pandya', 'Chris Gayle', 'Trent Boult', 'Shreyas Iyer', 'Liam Livingstone', 'Ambati Rayudu', 'Kedar Jadhav', 'Jasprit Bumrah', 'Dan Christian', 'Manish Pandey', 'Prasidh Krishna']
+kkr won the toss and chose to bat
+0.1 Chetan Sakariya to Liam Livingstone 0 Score: 0/0
+0.2 Chetan Sakariya to Liam Livingstone 1 Score: 1/0
+0.3 Chetan Sakariya to Chris Gayle 1 Score: 2/0
+0.4 Chetan Sakariya to Liam Livingstone 0 Score: 2/0
+0.5 Chetan Sakariya to Liam Livingstone 0 Score: 2/0
+0.6 Chetan Sakariya to Liam Livingstone 1 Score: 3/0
+1.1 Moeen Ali to Liam Livingstone 1 B! Score: 4/0
+1.2 Moeen Ali to Chris Gayle 1 Score: 5/0
+1.3 Moeen Ali to Liam Livingstone 4 Score: 9/0
+1.4 Moeen Ali to Liam Livingstone 1 LB! Score: 10/0
+1.5 Moeen Ali to Chris Gayle 0 Score: 10/0
+1.6 Moeen Ali to Chris Gayle 0 Score: 10/0
+2.1 Shahbaz Ahmed to Liam Livingstone 1 Score: 11/0
+2.2 Shahbaz Ahmed to Chris Gayle Wide Score: 12/0
+2.2 Shahbaz Ahmed to Chris Gayle 1 Score: 13/0
+2.3 Shahbaz Ahmed to Liam Livingstone 4 Score: 17/0
+2.4 Shahbaz Ahmed to Liam Livingstone 4 Score: 21/0
+2.5 Shahbaz Ahmed to Liam Livingstone 4 Score: 25/0
+2.6 Shahbaz Ahmed to Liam Livingstone 2 Score: 27/0
+3.1 Moeen Ali to Chris Gayle 0 Score: 27/0
+3.2 Moeen Ali to Chris Gayle 1 Score: 28/0
+3.3 Moeen Ali to Liam Livingstone 0 Score: 28/0
+3.4 Moeen Ali to Liam Livingstone 6 Score: 34/0
+3.5 Moeen Ali to Liam Livingstone 1 Score: 35/0
+3.6 Moeen Ali to Chris Gayle 1 Score: 36/0
+4.1 Ravi Bishnoi to Chris Gayle 1 Score: 37/0
+4.2 Ravi Bishnoi to Liam Livingstone 1 Score: 38/0
+4.3 Ravi Bishnoi to Chris Gayle 6 Score: 44/0
+4.4 Ravi Bishnoi to Chris Gayle 2 Score: 46/0
+4.5 Ravi Bishnoi to Chris Gayle 0 Score: 46/0
+4.6 Ravi Bishnoi to Chris Gayle 6 Score: 52/0
+5.1 Chetan Sakariya to Liam Livingstone 0 Score: 52/0
+5.2 Chetan Sakariya to Liam Livingstone 1 Score: 53/0
+5.3 Chetan Sakariya to Chris Gayle 4 Score: 57/0
+5.4 Chetan Sakariya to Chris Gayle 6 Score: 63/0
+5.5 Chetan Sakariya to Chris Gayle 1 Score: 64/0
+5.6 Chetan Sakariya to Liam Livingstone 0 Score: 64/0
+6.1 Deepak Hooda to Chris Gayle W Score: 64/1 Caught
+6.2 Deepak Hooda to Shreyas Iyer 1 Score: 65/1
+6.3 Deepak Hooda to Liam Livingstone 6 Score: 71/1
+6.4 Deepak Hooda to Liam Livingstone 1 Score: 72/1
+6.5 Deepak Hooda to Shreyas Iyer 1 Score: 73/1
+6.6 Deepak Hooda to Liam Livingstone 1 Score: 74/1
+7.1 RINKU SINGH to Liam Livingstone 4 Score: 78/1
+7.2 RINKU SINGH to Liam Livingstone 0 Score: 78/1
+7.3 RINKU SINGH to Liam Livingstone 4 Score: 82/1
+7.4 RINKU SINGH to Liam Livingstone 6 Score: 88/1
+7.5 RINKU SINGH to Liam Livingstone 0 Score: 88/1
+7.6 RINKU SINGH to Liam Livingstone 6 Score: 94/1
+8.1 Shahbaz Ahmed to Shreyas Iyer 4 Score: 98/1
+8.2 Shahbaz Ahmed to Shreyas Iyer 0 Score: 98/1
+8.3 Shahbaz Ahmed to Shreyas Iyer 1 Score: 99/1
+8.4 Shahbaz Ahmed to Liam Livingstone 6 Score: 105/1
+8.5 Shahbaz Ahmed to Liam Livingstone 1 Score: 106/1
+8.6 Shahbaz Ahmed to Shreyas Iyer 1 Score: 107/1
+9.1 Moeen Ali to Shreyas Iyer 1 Score: 108/1
+9.2 Moeen Ali to Liam Livingstone 1 Score: 109/1
+9.3 Moeen Ali to Shreyas Iyer 1 Score: 110/1
+9.4 Moeen Ali to Liam Livingstone 0 Score: 110/1
+9.5 Moeen Ali to Liam Livingstone 1 Score: 111/1
+9.6 Moeen Ali to Shreyas Iyer 0 Score: 111/1
+10.1 Ravi Bishnoi to Liam Livingstone W Score: 111/2 Bowled
+10.2 Ravi Bishnoi to Manish Pandey 4 B! Score: 115/2
+10.3 Ravi Bishnoi to Manish Pandey 0 Score: 115/2
+10.4 Ravi Bishnoi to Manish Pandey 1 Score: 116/2
+10.5 Ravi Bishnoi to Shreyas Iyer 1 Score: 117/2
+10.6 Ravi Bishnoi to Manish Pandey Wide Score: 118/2
+10.6 Ravi Bishnoi to Manish Pandey 1 Score: 119/2
+11.1 Chetan Sakariya to Manish Pandey 1 Score: 120/2
+11.2 Chetan Sakariya to Shreyas Iyer 1 Score: 121/2
+11.3 Chetan Sakariya to Manish Pandey 0 Score: 121/2
+11.4 Chetan Sakariya to Manish Pandey 1 Score: 122/2
+11.5 Chetan Sakariya to Shreyas Iyer 0 Score: 122/2
+11.6 Chetan Sakariya to Shreyas Iyer 0 Score: 122/2
+12.1 Deepak Hooda to Manish Pandey 1 Score: 123/2
+12.2 Deepak Hooda to Shreyas Iyer 1 Score: 124/2
+12.3 Deepak Hooda to Manish Pandey 4 Score: 128/2
+12.4 Deepak Hooda to Manish Pandey 2 Score: 130/2
+12.5 Deepak Hooda to Manish Pandey 1 Score: 131/2
+12.6 Deepak Hooda to Shreyas Iyer 1 Score: 132/2
+13.1 RINKU SINGH to Shreyas Iyer 2 LB! Score: 134/2
+13.2 RINKU SINGH to Shreyas Iyer NO BALL! Score: 135/2
+13.2 RINKU SINGH to Shreyas Iyer 1 Score: 136/2 (Free Hit) (Off No-Ball)
+13.2 RINKU SINGH to Manish Pandey 1 Score: 137/2 (Free Hit)
+13.3 RINKU SINGH to Shreyas Iyer 2 Score: 139/2
+13.4 RINKU SINGH to Shreyas Iyer 6 Score: 145/2
+13.5 RINKU SINGH to Shreyas Iyer 6 Score: 151/2
+13.6 RINKU SINGH to Shreyas Iyer 2 Score: 153/2
+14.1 Shahbaz Ahmed to Manish Pandey 1 Score: 154/2
+14.2 Shahbaz Ahmed to Shreyas Iyer 1 Score: 155/2
+14.3 Shahbaz Ahmed to Manish Pandey 1 Score: 156/2
+14.4 Shahbaz Ahmed to Shreyas Iyer 1 Score: 157/2
+14.5 Shahbaz Ahmed to Manish Pandey 0 Score: 157/2
+14.6 Shahbaz Ahmed to Manish Pandey 1 Score: 158/2
+15.1 Moeen Ali to Manish Pandey 4 Score: 162/2
+15.2 Moeen Ali to Manish Pandey 1 Score: 163/2
+15.3 Moeen Ali to Shreyas Iyer 1 Score: 164/2
+15.4 Moeen Ali to Manish Pandey 1 Score: 165/2
+15.5 Moeen Ali to Shreyas Iyer 0 Score: 165/2
+15.6 Moeen Ali to Shreyas Iyer 0 Score: 165/2
+16.1 Ravi Bishnoi to Manish Pandey 2 Score: 167/2
+16.2 Ravi Bishnoi to Manish Pandey 1 Score: 168/2
+16.3 Ravi Bishnoi to Shreyas Iyer 1 Score: 169/2
+16.4 Ravi Bishnoi to Manish Pandey 2 Score: 171/2
+16.5 Ravi Bishnoi to Manish Pandey 1 Score: 172/2
+16.6 Ravi Bishnoi to Shreyas Iyer 1 Score: 173/2
+17.1 Chetan Sakariya to Shreyas Iyer 1 Score: 174/2
+17.2 Chetan Sakariya to Manish Pandey 1 Score: 175/2
+17.3 Chetan Sakariya to Shreyas Iyer 0 Score: 175/2
+17.4 Chetan Sakariya to Shreyas Iyer 2 Score: 177/2
+17.5 Chetan Sakariya to Shreyas Iyer 0 Score: 177/2
+17.6 Chetan Sakariya to Shreyas Iyer 6 Score: 183/2
+18.1 Deepak Hooda to Manish Pandey 1 Score: 184/2
+18.2 Deepak Hooda to Shreyas Iyer 0 Score: 184/2
+18.3 Deepak Hooda to Shreyas Iyer 4 Score: 188/2
+18.4 Deepak Hooda to Shreyas Iyer 1 Score: 189/2
+18.5 Deepak Hooda to Manish Pandey 1 Score: 190/2
+18.6 Deepak Hooda to Shreyas Iyer 0 Score: 190/2
+19.1 RINKU SINGH to Manish Pandey 1 Score: 191/2
+19.2 RINKU SINGH to Shreyas Iyer 1 Score: 192/2
+19.3 RINKU SINGH to Manish Pandey 6 Score: 198/2
+19.4 RINKU SINGH to Manish Pandey 6 Score: 204/2
+19.5 RINKU SINGH to Manish Pandey Wide Score: 205/2
+19.5 RINKU SINGH to Manish Pandey 1 Score: 206/2
+19.6 RINKU SINGH to Shreyas Iyer 6 Score: 212/2
++-------------------+--------+---------+--------+-----------------------+
+| Player            |   Runs |   Balls | SR     | Out                   |
++===================+========+=========+========+=======================+
+| HH Pandya         |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| CH Gayle          |     31 |      17 | 182.35 | Caught b DJ Hooda     |
++-------------------+--------+---------+--------+-----------------------+
+| TA Boult          |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| SS Iyer           |     57 |      39 | 146.15 | Not out               |
++-------------------+--------+---------+--------+-----------------------+
+| LS Livingstone    |     67 |      35 | 191.43 | Bowled b Ravi Bishnoi |
++-------------------+--------+---------+--------+-----------------------+
+| AT Rayudu         |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| KM Jadhav         |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| JJ Bumrah         |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| DT Christian      |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
+| MK Pandey         |     45 |      30 | 150.0  | Not out               |
++-------------------+--------+---------+--------+-----------------------+
+| M Prasidh Krishna |      0 |       0 | NA     | DNB                   |
++-------------------+--------+---------+--------+-----------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| Shahbaz Ahmed   |     35 |       3 |         0 | 11.67 |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KL Rahul        |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Lomror       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MM Ali          |     25 |       4 |         0 | 6.25  |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     28 |       3 |         1 | 9.33  |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |     27 |       3 |         1 | 9.0   |
++-----------------+--------+---------+-----------+-------+
+| T VERMA         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| R SINGH         |     61 |       3 |         0 | 20.33 |
++-----------------+--------+---------+-----------+-------+
+| R Parag         |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| C Sakariya      |     28 |       4 |         0 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+0.1 Trent Boult to TILAK VERMA 0 Score: 0/0
+0.2 Trent Boult to TILAK VERMA 6 Score: 6/0
+0.3 Trent Boult to TILAK VERMA 1 Score: 7/0
+0.4 Trent Boult to KL Rahul 1 Score: 8/0
+0.5 Trent Boult to TILAK VERMA 1 Score: 9/0
+0.6 Trent Boult to KL Rahul 2 Score: 11/0
+1.1 Prasidh Krishna to TILAK VERMA 4 Score: 15/0
+1.2 Prasidh Krishna to TILAK VERMA 6 Score: 21/0
+1.3 Prasidh Krishna to TILAK VERMA 1 Score: 22/0
+1.4 Prasidh Krishna to KL Rahul 0 Score: 22/0
+1.5 Prasidh Krishna to KL Rahul 1 Score: 23/0
+1.6 Prasidh Krishna to TILAK VERMA 1 Score: 24/0
+2.1 Trent Boult to TILAK VERMA 6 Score: 30/0
+2.2 Trent Boult to TILAK VERMA 1 Score: 31/0
+2.3 Trent Boult to KL Rahul 0 Score: 31/0
+2.4 Trent Boult to KL Rahul 1 Score: 32/0
+2.5 Trent Boult to TILAK VERMA 1 Score: 33/0
+2.6 Trent Boult to KL Rahul 2 Score: 35/0
+3.1 Jasprit Bumrah to TILAK VERMA 0 Score: 35/0
+3.2 Jasprit Bumrah to TILAK VERMA 1 Score: 36/0
+3.3 Jasprit Bumrah to KL Rahul 0 Score: 36/0
+3.4 Jasprit Bumrah to KL Rahul 1 Score: 37/0
+3.5 Jasprit Bumrah to TILAK VERMA 6 Score: 43/0
+3.6 Jasprit Bumrah to TILAK VERMA 2 Score: 45/0
+4.1 Hardik Pandya to KL Rahul 0 Score: 45/0
+4.2 Hardik Pandya to KL Rahul 0 Score: 45/0
+4.3 Hardik Pandya to KL Rahul 2 Score: 47/0
+4.4 Hardik Pandya to KL Rahul 0 Score: 47/0
+4.5 Hardik Pandya to KL Rahul 1 Score: 48/0
+4.6 Hardik Pandya to TILAK VERMA 6 Score: 54/0
+5.1 Dan Christian to KL Rahul 1 Score: 55/0
+5.2 Dan Christian to TILAK VERMA 6 Score: 61/0
+5.3 Dan Christian to TILAK VERMA 1 Score: 62/0
+5.4 Dan Christian to KL Rahul 0 Score: 62/0
+5.5 Dan Christian to KL Rahul 1 Score: 63/0
+5.6 Dan Christian to TILAK VERMA 1 Score: 64/0
+6.1 Prasidh Krishna to TILAK VERMA 2 Score: 66/0
+6.2 Prasidh Krishna to TILAK VERMA 0 Score: 66/0
+6.3 Prasidh Krishna to TILAK VERMA 4 Score: 70/0
+6.4 Prasidh Krishna to TILAK VERMA 6 Score: 76/0
+6.5 Prasidh Krishna to TILAK VERMA 4 Score: 80/0
+6.6 Prasidh Krishna to TILAK VERMA 0 Score: 80/0
+7.1 Chris Gayle to KL Rahul 1 Score: 81/0
+7.2 Chris Gayle to TILAK VERMA 2 Score: 83/0
+7.3 Chris Gayle to TILAK VERMA Wide Score: 84/0
+7.3 Chris Gayle to TILAK VERMA 0 Score: 84/0
+7.4 Chris Gayle to TILAK VERMA 0 Score: 84/0
+7.5 Chris Gayle to TILAK VERMA 6 Score: 90/0
+7.6 Chris Gayle to TILAK VERMA 0 Score: 90/0
+8.1 Trent Boult to KL Rahul W Score: 90/1 Caught
+8.2 Trent Boult to Moeen Ali 6 Score: 96/1
+8.3 Trent Boult to Moeen Ali 0 Score: 96/1
+8.4 Trent Boult to Moeen Ali W Score: 97/2 Run Out (1r)
+8.5 Trent Boult to Deepak Hooda 0 Score: 97/2
+8.6 Trent Boult to Deepak Hooda 0 Score: 97/2
+9.1 Jasprit Bumrah to TILAK VERMA 1 Score: 98/2
+9.2 Jasprit Bumrah to Deepak Hooda 0 Score: 98/2
+9.3 Jasprit Bumrah to Deepak Hooda 2 Score: 100/2
+9.4 Jasprit Bumrah to Deepak Hooda W Score: 100/3 Bowled
+9.5 Jasprit Bumrah to Mahipal Lomror 0 Score: 100/3
+9.6 Jasprit Bumrah to Mahipal Lomror 4 Score: 104/3
+10.1 Hardik Pandya to TILAK VERMA 4 Score: 108/3
+10.2 Hardik Pandya to TILAK VERMA 1 Score: 109/3
+10.3 Hardik Pandya to Mahipal Lomror 1 Score: 110/3
+10.4 Hardik Pandya to TILAK VERMA 0 Score: 110/3
+10.5 Hardik Pandya to TILAK VERMA 4 Score: 114/3
+10.6 Hardik Pandya to TILAK VERMA 2 Score: 116/3
+11.1 Dan Christian to Mahipal Lomror 0 Score: 116/3
+11.2 Dan Christian to Mahipal Lomror 1 Score: 117/3
+11.3 Dan Christian to TILAK VERMA 0 Score: 117/3
+11.4 Dan Christian to TILAK VERMA 4 Score: 121/3
+11.5 Dan Christian to TILAK VERMA 1 Score: 122/3
+11.6 Dan Christian to Mahipal Lomror 0 Score: 122/3
+12.1 Prasidh Krishna to TILAK VERMA 4 Score: 126/3
+12.2 Prasidh Krishna to TILAK VERMA 4 Score: 130/3
+12.3 Prasidh Krishna to TILAK VERMA 2 Score: 132/3
+12.4 Prasidh Krishna to TILAK VERMA 2 Score: 134/3
+12.5 Prasidh Krishna to TILAK VERMA 0 Score: 134/3
+12.6 Prasidh Krishna to TILAK VERMA 0 Score: 134/3
+13.1 Chris Gayle to Mahipal Lomror 1 Score: 135/3
+13.2 Chris Gayle to TILAK VERMA 0 Score: 135/3
+13.3 Chris Gayle to TILAK VERMA 1 Score: 136/3
+13.4 Chris Gayle to Mahipal Lomror 0 Score: 136/3
+13.5 Chris Gayle to Mahipal Lomror 1 Score: 137/3
+13.6 Chris Gayle to TILAK VERMA 6 Score: 143/3
+14.1 Trent Boult to Mahipal Lomror 1 Score: 144/3
+14.2 Trent Boult to TILAK VERMA 1 Score: 145/3
+14.3 Trent Boult to Mahipal Lomror 4 Score: 149/3
+14.4 Trent Boult to Mahipal Lomror 0 Score: 149/3
+14.5 Trent Boult to Mahipal Lomror 4 Score: 153/3
+14.6 Trent Boult to Mahipal Lomror 0 Score: 153/3
+15.1 Jasprit Bumrah to TILAK VERMA 0 Score: 153/3
+15.2 Jasprit Bumrah to TILAK VERMA W Score: 153/4 Caught
+15.3 Jasprit Bumrah to Shahbaz Ahmed 6 Score: 159/4
+15.4 Jasprit Bumrah to Shahbaz Ahmed 1 Score: 160/4
+15.5 Jasprit Bumrah to Mahipal Lomror 1 Score: 161/4
+15.6 Jasprit Bumrah to Shahbaz Ahmed 1 Score: 162/4
+16.1 Hardik Pandya to Shahbaz Ahmed 6 Score: 168/4
+16.2 Hardik Pandya to Shahbaz Ahmed W Score: 168/5 Caught
+16.3 Hardik Pandya to Riyan Parag W Score: 168/6 Bowled
+16.4 Hardik Pandya to Shahrukh Khan 4 Score: 172/6
+16.5 Hardik Pandya to Shahrukh Khan 1 Score: 173/6
+16.6 Hardik Pandya to Mahipal Lomror 1 Score: 174/6
+17.1 Dan Christian to Mahipal Lomror 1 Score: 175/6
+17.2 Dan Christian to Shahrukh Khan 1 Score: 176/6
+17.3 Dan Christian to Mahipal Lomror 0 Score: 176/6
+17.4 Dan Christian to Mahipal Lomror 1 Score: 177/6
+17.5 Dan Christian to Shahrukh Khan 1 Score: 178/6
+17.6 Dan Christian to Mahipal Lomror 1 Score: 179/6
+18.1 Prasidh Krishna to Mahipal Lomror 2 Score: 181/6
+18.2 Prasidh Krishna to Mahipal Lomror 1 Score: 182/6
+18.3 Prasidh Krishna to Shahrukh Khan 1 Score: 183/6
+18.4 Prasidh Krishna to Mahipal Lomror 0 Score: 183/6
+18.5 Prasidh Krishna to Mahipal Lomror W Score: 183/7 Caught
+18.6 Prasidh Krishna to Ravi Bishnoi 5 Score: 188/7
+19.1 Chris Gayle to Ravi Bishnoi 0 Score: 188/7
+19.2 Chris Gayle to Ravi Bishnoi NO BALL! Score: 189/7
+19.2 Chris Gayle to Ravi Bishnoi 0 Score: 189/7 (Free Hit) (Off No-Ball)
+19.2 Chris Gayle to Ravi Bishnoi 0 Score: 189/7 (Free Hit)
+19.3 Chris Gayle to Ravi Bishnoi 0 Score: 189/7
+19.4 Chris Gayle to Ravi Bishnoi 0 Score: 189/7
+19.5 Chris Gayle to Ravi Bishnoi 0 Score: 189/7
+19.6 Chris Gayle to Ravi Bishnoi W Score: 189/8 Caught
+kkr won by 23 runs
++-----------------+--------+---------+--------+----------------------------+
+| Player          |   Runs |   Balls | SR     | Out                        |
++=================+========+=========+========+============================+
+| Shahbaz Ahmed   |     14 |       5 | 280.0  | Caught b HH Pandya         |
++-----------------+--------+---------+--------+----------------------------+
+| M Shahrukh Khan |      8 |       5 | 160.0  | Not out                    |
++-----------------+--------+---------+--------+----------------------------+
+| KL Rahul        |     14 |      19 | 73.68  | Caught b TA Boult          |
++-----------------+--------+---------+--------+----------------------------+
+| MK Lomror       |     25 |      24 | 104.17 | Caught b M Prasidh Krishna |
++-----------------+--------+---------+--------+----------------------------+
+| MM Ali          |      7 |       3 | 233.33 | Run Out (1r) b TA Boult    |
++-----------------+--------+---------+--------+----------------------------+
+| Ravi Bishnoi    |      5 |       8 | 62.5   | Caught b CH Gayle          |
++-----------------+--------+---------+--------+----------------------------+
+| DJ Hooda        |      2 |       5 | 40.0   | Bowled b JJ Bumrah         |
++-----------------+--------+---------+--------+----------------------------+
+| T VERMA         |    112 |      51 | 219.61 | Caught b JJ Bumrah         |
++-----------------+--------+---------+--------+----------------------------+
+| R SINGH         |      0 |       0 | NA     | DNB                        |
++-----------------+--------+---------+--------+----------------------------+
+| R Parag         |      0 |       1 | 0.0    | Bowled b HH Pandya         |
++-----------------+--------+---------+--------+----------------------------+
+| C Sakariya      |      0 |       0 | NA     | Not out                    |
++-----------------+--------+---------+--------+----------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| HH Pandya         |     33 |       3 |         2 | 11.0  |
++-------------------+--------+---------+-----------+-------+
+| CH Gayle          |     20 |       3 |         1 | 6.67  |
++-------------------+--------+---------+-----------+-------+
+| TA Boult          |     39 |       4 |         1 | 9.75  |
++-------------------+--------+---------+-----------+-------+
+| SS Iyer           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AT Rayudu         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KM Jadhav         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| JJ Bumrah         |     26 |       3 |         2 | 8.67  |
++-------------------+--------+---------+-----------+-------+
+| DT Christian      |     21 |       3 |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| MK Pandey         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     50 |       4 |         1 | 12.5  |
++-------------------+--------+---------+-----------+-------+

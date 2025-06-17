@@ -1,0 +1,354 @@
+['Sam Curran', 'Virat Kohli', 'Deepak Chahar', 'MS Dhoni', 'Mohammed Shami', 'Lockie Ferguson', 'David Miller', 'Dinesh Karthik', 'Anrich Nortje', 'Sandeep Sharma', 'Bhuvneshwar Kumar']
+rcb won the toss and chose to field
+0.1 Deepak Chahar to Liam Livingstone 1 Score: 1/0
+0.2 Deepak Chahar to Chris Gayle Wide Score: 2/0
+0.2 Deepak Chahar to Chris Gayle 1 Score: 3/0
+0.3 Deepak Chahar to Liam Livingstone 2 Score: 5/0
+0.4 Deepak Chahar to Liam Livingstone 1 Score: 6/0
+0.5 Deepak Chahar to Chris Gayle 4 Score: 10/0
+0.6 Deepak Chahar to Chris Gayle 0 Score: 10/0
+1.1 Bhuvneshwar Kumar to Liam Livingstone 6 Score: 16/0
+1.2 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 16/0
+1.3 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 16/0
+1.4 Bhuvneshwar Kumar to Liam Livingstone 4 Score: 20/0
+1.5 Bhuvneshwar Kumar to Liam Livingstone 1 Score: 21/0
+1.6 Bhuvneshwar Kumar to Chris Gayle 0 Score: 21/0
+2.1 Anrich Nortje to Liam Livingstone Wide Score: 22/0
+2.1 Anrich Nortje to Liam Livingstone 4 LB! Score: 26/0
+2.2 Anrich Nortje to Liam Livingstone 0 Score: 26/0
+2.3 Anrich Nortje to Liam Livingstone 0 Score: 26/0
+2.4 Anrich Nortje to Liam Livingstone 1 B! Score: 27/0
+2.5 Anrich Nortje to Chris Gayle 1 Score: 28/0
+2.6 Anrich Nortje to Liam Livingstone 1 Score: 29/0
+3.1 Sam Curran to Liam Livingstone 0 Score: 29/0
+3.2 Sam Curran to Liam Livingstone 2 LB! Score: 31/0
+3.3 Sam Curran to Liam Livingstone 6 Score: 37/0
+3.4 Sam Curran to Liam Livingstone 0 Score: 37/0
+3.5 Sam Curran to Liam Livingstone 0 Score: 37/0
+3.6 Sam Curran to Liam Livingstone 0 Score: 37/0
+4.1 Mohammed Shami to Chris Gayle 0 Score: 37/0
+4.2 Mohammed Shami to Chris Gayle 0 Score: 37/0
+4.3 Mohammed Shami to Chris Gayle 4 Score: 41/0
+4.4 Mohammed Shami to Chris Gayle 1 Score: 42/0
+4.5 Mohammed Shami to Liam Livingstone 1 Score: 43/0
+4.6 Mohammed Shami to Chris Gayle 4 Score: 47/0
+5.1 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 47/0
+5.2 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 47/0
+5.3 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 47/0
+5.4 Bhuvneshwar Kumar to Liam Livingstone 0 Score: 47/0
+5.5 Bhuvneshwar Kumar to Liam Livingstone 1 Score: 48/0
+5.6 Bhuvneshwar Kumar to Chris Gayle 1 Score: 49/0
+6.1 Sandeep Sharma to Chris Gayle 1 Score: 50/0
+6.2 Sandeep Sharma to Liam Livingstone 0 Score: 50/0
+6.3 Sandeep Sharma to Liam Livingstone 1 Score: 51/0
+6.4 Sandeep Sharma to Chris Gayle 0 Score: 51/0
+6.5 Sandeep Sharma to Chris Gayle 0 Score: 51/0
+6.6 Sandeep Sharma to Chris Gayle 0 Score: 51/0
+7.1 Deepak Chahar to Liam Livingstone W Score: 51/1 Bowled
+7.2 Deepak Chahar to Shreyas Iyer 0 Score: 51/1
+7.3 Deepak Chahar to Shreyas Iyer 1 Score: 52/1
+7.4 Deepak Chahar to Chris Gayle 0 Score: 52/1
+7.5 Deepak Chahar to Chris Gayle 0 Score: 52/1
+7.6 Deepak Chahar to Chris Gayle 0 Score: 52/1
+8.1 Anrich Nortje to Shreyas Iyer 1 Score: 53/1
+8.2 Anrich Nortje to Chris Gayle 0 Score: 53/1
+8.3 Anrich Nortje to Chris Gayle 1 Score: 54/1
+8.4 Anrich Nortje to Shreyas Iyer 6 Score: 60/1
+8.5 Anrich Nortje to Shreyas Iyer 1 Score: 61/1
+8.6 Anrich Nortje to Chris Gayle 0 Score: 61/1
+9.1 Sam Curran to Shreyas Iyer 2 Score: 63/1
+9.2 Sam Curran to Shreyas Iyer 4 Score: 67/1
+9.3 Sam Curran to Shreyas Iyer 1 Score: 68/1
+9.4 Sam Curran to Chris Gayle 1 Score: 69/1
+9.5 Sam Curran to Shreyas Iyer 1 Score: 70/1
+9.6 Sam Curran to Chris Gayle 1 Score: 71/1
+10.1 Mohammed Shami to Chris Gayle NO BALL! Score: 72/1
+10.1 Mohammed Shami to Chris Gayle 1 Score: 73/1 (Free Hit) (Off No-Ball)
+10.1 Mohammed Shami to Shreyas Iyer 0 Score: 73/1 (Free Hit)
+10.2 Mohammed Shami to Shreyas Iyer 4 Score: 77/1
+10.3 Mohammed Shami to Shreyas Iyer 0 Score: 77/1
+10.4 Mohammed Shami to Shreyas Iyer 1 Score: 78/1
+10.5 Mohammed Shami to Chris Gayle 1 Score: 79/1
+10.6 Mohammed Shami to Shreyas Iyer 2 Score: 81/1
+11.1 Bhuvneshwar Kumar to Chris Gayle 2 B! Score: 83/1
+11.2 Bhuvneshwar Kumar to Chris Gayle 0 Score: 83/1
+11.3 Bhuvneshwar Kumar to Chris Gayle 0 Score: 83/1
+11.4 Bhuvneshwar Kumar to Chris Gayle 1 LB! Score: 84/1
+11.5 Bhuvneshwar Kumar to Shreyas Iyer 1 Score: 85/1
+11.6 Bhuvneshwar Kumar to Chris Gayle 4 Score: 89/1
+12.1 Sandeep Sharma to Shreyas Iyer 0 Score: 89/1
+12.2 Sandeep Sharma to Shreyas Iyer 0 Score: 89/1
+12.3 Sandeep Sharma to Shreyas Iyer 6 Score: 95/1
+12.4 Sandeep Sharma to Shreyas Iyer 0 Score: 95/1
+12.5 Sandeep Sharma to Shreyas Iyer 4 Score: 99/1
+12.6 Sandeep Sharma to Shreyas Iyer 0 Score: 99/1
+13.1 Deepak Chahar to Chris Gayle W Score: 99/2 Bowled
+13.2 Deepak Chahar to Manish Pandey 4 Score: 103/2
+13.3 Deepak Chahar to Manish Pandey 6 Score: 109/2
+13.4 Deepak Chahar to Manish Pandey Wide Score: 110/2
+13.4 Deepak Chahar to Manish Pandey 0 Score: 110/2
+13.5 Deepak Chahar to Manish Pandey 2 LB! Score: 112/2
+13.6 Deepak Chahar to Manish Pandey 0 Score: 112/2
+14.1 Anrich Nortje to Shreyas Iyer 0 Score: 112/2
+14.2 Anrich Nortje to Shreyas Iyer W Score: 112/3 Caught
+14.3 Anrich Nortje to Ambati Rayudu 1 Score: 113/3
+14.4 Anrich Nortje to Manish Pandey 0 Score: 113/3
+14.5 Anrich Nortje to Manish Pandey 0 Score: 113/3
+14.6 Anrich Nortje to Manish Pandey 0 Score: 113/3
+15.1 Sam Curran to Ambati Rayudu 0 Score: 113/3
+15.2 Sam Curran to Ambati Rayudu 2 Score: 115/3
+15.3 Sam Curran to Ambati Rayudu 2 Score: 117/3
+15.4 Sam Curran to Ambati Rayudu 1 Score: 118/3
+15.5 Sam Curran to Manish Pandey 4 Score: 122/3
+15.6 Sam Curran to Manish Pandey 0 Score: 122/3
+16.1 Mohammed Shami to Ambati Rayudu 1 Score: 123/3
+16.2 Mohammed Shami to Manish Pandey 1 Score: 124/3
+16.3 Mohammed Shami to Ambati Rayudu 4 Score: 128/3
+16.4 Mohammed Shami to Ambati Rayudu 6 Score: 134/3
+16.5 Mohammed Shami to Ambati Rayudu 4 Score: 138/3
+16.6 Mohammed Shami to Ambati Rayudu 1 Score: 139/3
+17.1 Bhuvneshwar Kumar to Ambati Rayudu 0 Score: 139/3
+17.2 Bhuvneshwar Kumar to Ambati Rayudu 0 Score: 139/3
+17.3 Bhuvneshwar Kumar to Ambati Rayudu 1 Score: 140/3
+17.4 Bhuvneshwar Kumar to Manish Pandey 0 Score: 140/3
+17.5 Bhuvneshwar Kumar to Manish Pandey NO BALL! Score: 141/3
+17.5 Bhuvneshwar Kumar to Manish Pandey 2 Score: 143/3 (Free Hit) (Off No-Ball)
+17.5 Bhuvneshwar Kumar to Manish Pandey Wide Score: 144/3
+17.5 Bhuvneshwar Kumar to Manish Pandey 0 Score: 144/3 (Free Hit)
+17.6 Bhuvneshwar Kumar to Manish Pandey 0 Score: 144/3
+18.1 Sandeep Sharma to Ambati Rayudu 0 Score: 144/3
+18.2 Sandeep Sharma to Ambati Rayudu 2 Score: 146/3
+18.3 Sandeep Sharma to Ambati Rayudu 4 Score: 150/3
+18.4 Sandeep Sharma to Ambati Rayudu 1 Score: 151/3
+18.5 Sandeep Sharma to Manish Pandey 4 Score: 155/3
+18.6 Sandeep Sharma to Manish Pandey 4 Score: 159/3
+19.1 Deepak Chahar to Ambati Rayudu 0 Score: 159/3
+19.2 Deepak Chahar to Ambati Rayudu 1 Score: 160/3
+19.3 Deepak Chahar to Manish Pandey 0 Score: 160/3
+19.4 Deepak Chahar to Manish Pandey 1 Score: 161/3
+19.5 Deepak Chahar to Ambati Rayudu 1 LB! Score: 162/3
+19.6 Deepak Chahar to Manish Pandey 1 Score: 163/3
++-------------------+--------+---------+--------+--------------------+
+| Player            |   Runs |   Balls | SR     | Out                |
++===================+========+=========+========+====================+
+| HH Pandya         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| CH Gayle          |     26 |      31 | 83.87  | Bowled b DL Chahar |
++-------------------+--------+---------+--------+--------------------+
+| TA Boult          |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| SS Iyer           |     35 |      23 | 152.17 | Caught b A Nortje  |
++-------------------+--------+---------+--------+--------------------+
+| LS Livingstone    |     25 |      28 | 89.29  | Bowled b DL Chahar |
++-------------------+--------+---------+--------+--------------------+
+| AT Rayudu         |     31 |      20 | 155.0  | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| KM Jadhav         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| JJ Bumrah         |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| DT Christian      |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
+| MK Pandey         |     27 |      20 | 135.0  | Not out            |
++-------------------+--------+---------+--------+--------------------+
+| M Prasidh Krishna |      0 |       0 | NA     | DNB                |
++-------------------+--------+---------+--------+--------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| SM Curran      |     25 |       3 |         0 | 8.33  |
++----------------+--------+---------+-----------+-------+
+| V Kohli        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DL Chahar      |     25 |       4 |         2 | 6.25  |
++----------------+--------+---------+-----------+-------+
+| MS Dhoni       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Mohammed Shami |     37 |       3 |         0 | 12.33 |
++----------------+--------+---------+-----------+-------+
+| LH Ferguson    |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| DA Miller      |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KD Karthik     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| A Nortje       |     13 |       3 |         1 | 4.33  |
++----------------+--------+---------+-----------+-------+
+| Sandeep Sharma |     27 |       3 |         0 | 9.0   |
++----------------+--------+---------+-----------+-------+
+| B Kumar        |     23 |       4 |         0 | 5.75  |
++----------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Virat Kohli 1 Score: 1/0
+0.2 Trent Boult to David Miller Wide Score: 2/0
+0.2 Trent Boult to David Miller 1 Score: 3/0
+0.3 Trent Boult to Virat Kohli 0 Score: 3/0
+0.4 Trent Boult to Virat Kohli 1 Score: 4/0
+0.5 Trent Boult to David Miller 1 Score: 5/0
+0.6 Trent Boult to Virat Kohli 0 Score: 5/0
+1.1 Prasidh Krishna to David Miller 1 LB! Score: 6/0
+1.2 Prasidh Krishna to Virat Kohli 0 Score: 6/0
+1.3 Prasidh Krishna to Virat Kohli 1 Score: 7/0
+1.4 Prasidh Krishna to David Miller 0 Score: 7/0
+1.5 Prasidh Krishna to David Miller 2 Score: 9/0
+1.6 Prasidh Krishna to David Miller 0 Score: 9/0
+2.1 Trent Boult to Virat Kohli 6 Score: 15/0
+2.2 Trent Boult to Virat Kohli 2 Score: 17/0
+2.3 Trent Boult to Virat Kohli 1 LB! Score: 18/0
+2.4 Trent Boult to David Miller 0 Score: 18/0
+2.5 Trent Boult to David Miller 0 Score: 18/0
+2.6 Trent Boult to David Miller 6 Score: 24/0
+3.1 Jasprit Bumrah to Virat Kohli 0 Score: 24/0
+3.2 Jasprit Bumrah to Virat Kohli 1 Score: 25/0
+3.3 Jasprit Bumrah to David Miller W Score: 25/1 Bowled
+3.4 Jasprit Bumrah to Sam Curran W Score: 25/2 Bowled
+3.5 Jasprit Bumrah to MS Dhoni 0 Score: 25/2
+3.6 Jasprit Bumrah to MS Dhoni 0 Score: 25/2
+4.1 Hardik Pandya to Virat Kohli 1 Score: 26/2
+4.2 Hardik Pandya to MS Dhoni 0 Score: 26/2
+4.3 Hardik Pandya to MS Dhoni 0 Score: 26/2
+4.4 Hardik Pandya to MS Dhoni 1 Score: 27/2
+4.5 Hardik Pandya to Virat Kohli 6 Score: 33/2
+4.6 Hardik Pandya to Virat Kohli 2 Score: 35/2
+5.1 Dan Christian to MS Dhoni 1 Score: 36/2
+5.2 Dan Christian to Virat Kohli 0 Score: 36/2
+5.3 Dan Christian to Virat Kohli 2 Score: 38/2
+5.4 Dan Christian to Virat Kohli 2 Score: 40/2
+5.5 Dan Christian to Virat Kohli 0 Score: 40/2
+5.6 Dan Christian to Virat Kohli 0 Score: 40/2
+6.1 Prasidh Krishna to MS Dhoni 0 Score: 40/2
+6.2 Prasidh Krishna to MS Dhoni NO BALL! Score: 41/2
+6.2 Prasidh Krishna to MS Dhoni 1 Score: 42/2 (Free Hit) (Off No-Ball)
+6.2 Prasidh Krishna to Virat Kohli 2 Score: 44/2 (Free Hit)
+6.3 Prasidh Krishna to Virat Kohli NO BALL! Score: 45/2
+6.3 Prasidh Krishna to Virat Kohli 1 Score: 46/2 (Free Hit) (Off No-Ball)
+6.3 Prasidh Krishna to MS Dhoni 0 Score: 46/2 (Free Hit)
+6.4 Prasidh Krishna to MS Dhoni NO BALL! Score: 47/2
+6.4 Prasidh Krishna to MS Dhoni 0 Score: 47/2 (Free Hit) (Off No-Ball)
+6.4 Prasidh Krishna to MS Dhoni 1 Score: 48/2 (Free Hit)
+6.5 Prasidh Krishna to Virat Kohli 6 Score: 54/2
+6.6 Prasidh Krishna to Virat Kohli 3 Score: 57/2
+7.1 Chris Gayle to Virat Kohli 1 Score: 58/2
+7.2 Chris Gayle to MS Dhoni 1 Score: 59/2
+7.3 Chris Gayle to Virat Kohli 4 Score: 63/2
+7.4 Chris Gayle to Virat Kohli 4 Score: 67/2
+7.5 Chris Gayle to Virat Kohli 1 Score: 68/2
+7.6 Chris Gayle to MS Dhoni 1 Score: 69/2
+8.1 Trent Boult to MS Dhoni 1 Score: 70/2
+8.2 Trent Boult to Virat Kohli 0 Score: 70/2
+8.3 Trent Boult to Virat Kohli 0 Score: 70/2
+8.4 Trent Boult to Virat Kohli 4 Score: 74/2
+8.5 Trent Boult to Virat Kohli 2 Score: 76/2
+8.6 Trent Boult to Virat Kohli 0 Score: 76/2
+9.1 Jasprit Bumrah to MS Dhoni 1 Score: 77/2
+9.2 Jasprit Bumrah to Virat Kohli 1 Score: 78/2
+9.3 Jasprit Bumrah to MS Dhoni 1 Score: 79/2
+9.4 Jasprit Bumrah to Virat Kohli 1 LB! Score: 80/2
+9.5 Jasprit Bumrah to MS Dhoni 0 Score: 80/2
+9.6 Jasprit Bumrah to MS Dhoni W Score: 80/3 Run Out (0r)
+10.1 Hardik Pandya to Virat Kohli 4 Score: 84/3
+10.2 Hardik Pandya to Virat Kohli 2 Score: 86/3
+10.3 Hardik Pandya to Virat Kohli 0 Score: 86/3
+10.4 Hardik Pandya to Virat Kohli 1 Score: 87/3
+10.5 Hardik Pandya to Dinesh Karthik 0 Score: 87/3
+10.6 Hardik Pandya to Dinesh Karthik 0 Score: 87/3
+11.1 Dan Christian to Virat Kohli 0 Score: 87/3
+11.2 Dan Christian to Virat Kohli W Score: 87/4 Bowled
+11.3 Dan Christian to Deepak Chahar 4 Score: 91/4
+11.4 Dan Christian to Deepak Chahar W Score: 91/5 Stumped
+11.5 Dan Christian to Bhuvneshwar Kumar 1 Score: 92/5
+11.6 Dan Christian to Dinesh Karthik 1 Score: 93/5
+12.1 Prasidh Krishna to Dinesh Karthik 1 Score: 94/5
+12.2 Prasidh Krishna to Bhuvneshwar Kumar 4 Score: 98/5
+12.3 Prasidh Krishna to Bhuvneshwar Kumar 0 Score: 98/5
+12.4 Prasidh Krishna to Bhuvneshwar Kumar 4 Score: 102/5
+12.5 Prasidh Krishna to Bhuvneshwar Kumar 1 Score: 103/5
+12.6 Prasidh Krishna to Dinesh Karthik 2 Score: 105/5
+13.1 Chris Gayle to Bhuvneshwar Kumar 1 Score: 106/5
+13.2 Chris Gayle to Dinesh Karthik 0 Score: 106/5
+13.3 Chris Gayle to Dinesh Karthik 1 Score: 107/5
+13.4 Chris Gayle to Bhuvneshwar Kumar 0 Score: 107/5
+13.5 Chris Gayle to Bhuvneshwar Kumar 0 Score: 107/5
+13.6 Chris Gayle to Bhuvneshwar Kumar 0 Score: 107/5
+14.1 Trent Boult to Dinesh Karthik 4 Score: 111/5
+14.2 Trent Boult to Dinesh Karthik 1 Score: 112/5
+14.3 Trent Boult to Bhuvneshwar Kumar 0 Score: 112/5
+14.4 Trent Boult to Bhuvneshwar Kumar 4 Score: 116/5
+14.5 Trent Boult to Bhuvneshwar Kumar 1 B! Score: 117/5
+14.6 Trent Boult to Dinesh Karthik 0 Score: 117/5
+15.1 Jasprit Bumrah to Bhuvneshwar Kumar 1 Score: 118/5
+15.2 Jasprit Bumrah to Dinesh Karthik 4 Score: 122/5
+15.3 Jasprit Bumrah to Dinesh Karthik 1 Score: 123/5
+15.4 Jasprit Bumrah to Bhuvneshwar Kumar 1 Score: 124/5
+15.5 Jasprit Bumrah to Dinesh Karthik 0 Score: 124/5
+15.6 Jasprit Bumrah to Dinesh Karthik 0 Score: 124/5
+16.1 Hardik Pandya to Bhuvneshwar Kumar 0 Score: 124/5
+16.2 Hardik Pandya to Bhuvneshwar Kumar W Score: 124/6 Caught
+16.3 Hardik Pandya to Lockie Ferguson 4 Score: 128/6
+16.4 Hardik Pandya to Lockie Ferguson Wide Score: 129/6
+16.4 Hardik Pandya to Lockie Ferguson 6 Score: 135/6
+16.5 Hardik Pandya to Lockie Ferguson 1 Score: 136/6
+16.6 Hardik Pandya to Dinesh Karthik 0 Score: 136/6
+17.1 Dan Christian to Lockie Ferguson W Score: 136/7 Caught
+17.2 Dan Christian to Mohammed Shami 4 Score: 140/7
+17.3 Dan Christian to Mohammed Shami 2 Score: 142/7
+17.4 Dan Christian to Mohammed Shami 2 Score: 144/7
+17.5 Dan Christian to Mohammed Shami 1 Score: 145/7
+17.6 Dan Christian to Dinesh Karthik Wide Score: 146/7
+17.6 Dan Christian to Dinesh Karthik 6 Score: 152/7
+18.1 Prasidh Krishna to Mohammed Shami 1 Score: 153/7
+18.2 Prasidh Krishna to Dinesh Karthik 0 Score: 153/7
+18.3 Prasidh Krishna to Dinesh Karthik 1 Score: 154/7
+18.4 Prasidh Krishna to Mohammed Shami 0 Score: 154/7
+18.5 Prasidh Krishna to Mohammed Shami 6 Score: 160/7
+18.6 Prasidh Krishna to Mohammed Shami 4 Score: 164/7
+rcb won by 3 wickets
++----------------+--------+---------+--------+--------------------------+
+| Player         |   Runs |   Balls | SR     | Out                      |
++================+========+=========+========+==========================+
+| SM Curran      |      0 |       1 | 0.0    | Bowled b JJ Bumrah       |
++----------------+--------+---------+--------+--------------------------+
+| V Kohli        |     61 |      40 | 152.5  | Bowled b DT Christian    |
++----------------+--------+---------+--------+--------------------------+
+| DL Chahar      |      4 |       2 | 200.0  | Stumped b DT Christian   |
++----------------+--------+---------+--------+--------------------------+
+| MS Dhoni       |      9 |      18 | 50.0   | Run Out (0r) b JJ Bumrah |
++----------------+--------+---------+--------+--------------------------+
+| Mohammed Shami |     20 |       8 | 250.0  | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| LH Ferguson    |     11 |       4 | 275.0  | Caught b DT Christian    |
++----------------+--------+---------+--------+--------------------------+
+| DA Miller      |     10 |      10 | 100.0  | Bowled b JJ Bumrah       |
++----------------+--------+---------+--------+--------------------------+
+| KD Karthik     |     22 |      18 | 122.22 | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| A Nortje       |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| Sandeep Sharma |      0 |       0 | NA     | DNB                      |
++----------------+--------+---------+--------+--------------------------+
+| B Kumar        |     17 |      16 | 106.25 | Caught b HH Pandya       |
++----------------+--------+---------+--------+--------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| HH Pandya         |     29 |       3 |         1 | 9.67  |
++-------------------+--------+---------+-----------+-------+
+| CH Gayle          |     14 |       2 |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| TA Boult          |     35 |       4 |         0 | 8.75  |
++-------------------+--------+---------+-----------+-------+
+| SS Iyer           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AT Rayudu         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KM Jadhav         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| JJ Bumrah         |     11 |       3 |         2 | 3.67  |
++-------------------+--------+---------+-----------+-------+
+| DT Christian      |     27 |       3 |         3 | 9.0   |
++-------------------+--------+---------+-----------+-------+
+| MK Pandey         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     44 |       4 |         0 | 11.0  |
++-------------------+--------+---------+-----------+-------+

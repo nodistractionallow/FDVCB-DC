@@ -1,0 +1,302 @@
+['Rahul Chahar', 'Shardul Thakur', 'David Warner', 'Ishan Kishan', 'Ravichandran Ashwin', 'Avesh Khan', 'Rohit Sharma', 'Faf du Plessis', 'Washington Sundar', 'Suresh Raina', 'Navdeep Saini']
+dc won the toss and chose to bat
+0.1 Chris Morris to David Warner 2 Score: 2/0
+0.2 Chris Morris to David Warner 0 Score: 2/0
+0.3 Chris Morris to David Warner 0 Score: 2/0
+0.4 Chris Morris to David Warner 1 Score: 3/0
+0.5 Chris Morris to Faf du Plessis 0 Score: 3/0
+0.6 Chris Morris to Faf du Plessis 1 Score: 4/0
+1.1 Khaleel Ahmed to Faf du Plessis 4 Score: 8/0
+1.2 Khaleel Ahmed to Faf du Plessis 0 Score: 8/0
+1.3 Khaleel Ahmed to Faf du Plessis 1 LB! Score: 9/0
+1.4 Khaleel Ahmed to David Warner 4 Score: 13/0
+1.5 Khaleel Ahmed to David Warner 4 Score: 17/0
+1.6 Khaleel Ahmed to David Warner 2 Score: 19/0
+2.1 Chris Morris to Faf du Plessis 0 Score: 19/0
+2.2 Chris Morris to Faf du Plessis 0 Score: 19/0
+2.3 Chris Morris to Faf du Plessis 4 Score: 23/0
+2.4 Chris Morris to Faf du Plessis 0 Score: 23/0
+2.5 Chris Morris to Faf du Plessis 1 LB! Score: 24/0
+2.6 Chris Morris to David Warner 1 Score: 25/0
+3.1 Khaleel Ahmed to David Warner 6 Score: 31/0
+3.2 Khaleel Ahmed to David Warner 0 Score: 31/0
+3.3 Khaleel Ahmed to David Warner 4 Score: 35/0
+3.4 Khaleel Ahmed to David Warner 4 Score: 39/0
+3.5 Khaleel Ahmed to David Warner 1 Score: 40/0
+3.6 Khaleel Ahmed to Faf du Plessis W Score: 40/1 Caught
+4.1 Mustafizur Rahman to David Warner 4 Score: 44/1
+4.2 Mustafizur Rahman to David Warner 0 Score: 44/1
+4.3 Mustafizur Rahman to David Warner 0 Score: 44/1
+4.4 Mustafizur Rahman to David Warner 1 Score: 45/1
+4.5 Mustafizur Rahman to Rohit Sharma 4 Score: 49/1
+4.6 Mustafizur Rahman to Rohit Sharma 2 Score: 51/1
+5.1 Dwayne Bravo to David Warner 1 Score: 52/1
+5.2 Dwayne Bravo to Rohit Sharma 4 Score: 56/1
+5.3 Dwayne Bravo to Rohit Sharma 0 Score: 56/1
+5.4 Dwayne Bravo to Rohit Sharma 4 Score: 60/1
+5.5 Dwayne Bravo to Rohit Sharma 1 Score: 61/1
+5.6 Dwayne Bravo to David Warner 1 Score: 62/1
+6.1 Glenn Maxwell to David Warner 0 Score: 62/1
+6.2 Glenn Maxwell to David Warner 0 Score: 62/1
+6.3 Glenn Maxwell to David Warner 1 Score: 63/1
+6.4 Glenn Maxwell to Rohit Sharma 0 Score: 63/1
+6.5 Glenn Maxwell to Rohit Sharma 0 Score: 63/1
+6.6 Glenn Maxwell to Rohit Sharma 0 Score: 63/1
+7.1 Axar Patel to David Warner 4 Score: 67/1
+7.2 Axar Patel to David Warner W Score: 68/2 Run Out (1r)
+7.3 Axar Patel to Suresh Raina 4 Score: 72/2
+7.4 Axar Patel to Suresh Raina 1 B! Score: 73/2
+7.5 Axar Patel to Rohit Sharma 0 Score: 73/2
+7.6 Axar Patel to Rohit Sharma 1 Score: 74/2
+8.1 Chris Morris to Rohit Sharma 4 Score: 78/2
+8.2 Chris Morris to Rohit Sharma 0 Score: 78/2
+8.3 Chris Morris to Rohit Sharma 0 Score: 78/2
+8.4 Chris Morris to Rohit Sharma 1 Score: 79/2
+8.5 Chris Morris to Suresh Raina 0 Score: 79/2
+8.6 Chris Morris to Suresh Raina 0 Score: 79/2
+9.1 Khaleel Ahmed to Rohit Sharma 0 Score: 79/2
+9.2 Khaleel Ahmed to Rohit Sharma 0 Score: 79/2
+9.3 Khaleel Ahmed to Rohit Sharma 1 B! Score: 80/2
+9.4 Khaleel Ahmed to Suresh Raina 1 Score: 81/2
+9.5 Khaleel Ahmed to Rohit Sharma 6 Score: 87/2
+9.6 Khaleel Ahmed to Rohit Sharma 1 Score: 88/2
+10.1 Mustafizur Rahman to Rohit Sharma 0 Score: 88/2
+10.2 Mustafizur Rahman to Rohit Sharma 1 Score: 89/2
+10.3 Mustafizur Rahman to Suresh Raina 1 Score: 90/2
+10.4 Mustafizur Rahman to Rohit Sharma 0 Score: 90/2
+10.5 Mustafizur Rahman to Rohit Sharma 1 Score: 91/2
+10.6 Mustafizur Rahman to Suresh Raina 1 Score: 92/2
+11.1 Dwayne Bravo to Suresh Raina 1 Score: 93/2
+11.2 Dwayne Bravo to Rohit Sharma 4 Score: 97/2
+11.3 Dwayne Bravo to Rohit Sharma Wide Score: 98/2
+11.3 Dwayne Bravo to Rohit Sharma 6 Score: 104/2
+11.4 Dwayne Bravo to Rohit Sharma 0 Score: 104/2
+11.5 Dwayne Bravo to Rohit Sharma 0 Score: 104/2
+11.6 Dwayne Bravo to Rohit Sharma 1 Score: 105/2
+12.1 Glenn Maxwell to Rohit Sharma 1 Score: 106/2
+12.2 Glenn Maxwell to Suresh Raina 4 Score: 110/2
+12.3 Glenn Maxwell to Suresh Raina 1 Score: 111/2
+12.4 Glenn Maxwell to Rohit Sharma 1 Score: 112/2
+12.5 Glenn Maxwell to Suresh Raina 1 Score: 113/2
+12.6 Glenn Maxwell to Rohit Sharma 1 Score: 114/2
+13.1 Axar Patel to Rohit Sharma 1 Score: 115/2
+13.2 Axar Patel to Suresh Raina 0 Score: 115/2
+13.3 Axar Patel to Suresh Raina 0 Score: 115/2
+13.4 Axar Patel to Suresh Raina 4 Score: 119/2
+13.5 Axar Patel to Suresh Raina 1 Score: 120/2
+13.6 Axar Patel to Rohit Sharma 1 Score: 121/2
+14.1 Chris Morris to Rohit Sharma 1 Score: 122/2
+14.2 Chris Morris to Suresh Raina 1 Score: 123/2
+14.3 Chris Morris to Rohit Sharma 0 Score: 123/2
+14.4 Chris Morris to Rohit Sharma 0 Score: 123/2
+14.5 Chris Morris to Rohit Sharma 1 Score: 124/2
+14.6 Chris Morris to Suresh Raina 0 Score: 124/2
+15.1 Khaleel Ahmed to Rohit Sharma 1 Score: 125/2
+15.2 Khaleel Ahmed to Suresh Raina 1 Score: 126/2
+15.3 Khaleel Ahmed to Rohit Sharma 4 Score: 130/2
+15.4 Khaleel Ahmed to Rohit Sharma 1 Score: 131/2
+15.5 Khaleel Ahmed to Suresh Raina 1 Score: 132/2
+15.6 Khaleel Ahmed to Rohit Sharma 1 Score: 133/2
+16.1 Mustafizur Rahman to Rohit Sharma 4 Score: 137/2
+16.2 Mustafizur Rahman to Rohit Sharma 1 Score: 138/2
+16.3 Mustafizur Rahman to Suresh Raina 1 Score: 139/2
+16.4 Mustafizur Rahman to Rohit Sharma 0 Score: 139/2
+16.5 Mustafizur Rahman to Rohit Sharma 0 Score: 139/2
+16.6 Mustafizur Rahman to Rohit Sharma 0 Score: 139/2
+17.1 Dwayne Bravo to Suresh Raina 4 Score: 143/2
+17.2 Dwayne Bravo to Suresh Raina 1 Score: 144/2
+17.3 Dwayne Bravo to Rohit Sharma 0 Score: 144/2
+17.4 Dwayne Bravo to Rohit Sharma 1 Score: 145/2
+17.5 Dwayne Bravo to Suresh Raina 2 Score: 147/2
+17.6 Dwayne Bravo to Suresh Raina 6 Score: 153/2
+18.1 Glenn Maxwell to Rohit Sharma 1 Score: 154/2
+18.2 Glenn Maxwell to Suresh Raina 0 Score: 154/2
+18.3 Glenn Maxwell to Suresh Raina 1 Score: 155/2
+18.4 Glenn Maxwell to Rohit Sharma 6 Score: 161/2
+18.5 Glenn Maxwell to Rohit Sharma W Score: 161/3 Caught
+18.6 Glenn Maxwell to Ishan Kishan 0 Score: 161/3
+19.1 Axar Patel to Suresh Raina 6 Score: 167/3
+19.2 Axar Patel to Suresh Raina 0 Score: 167/3
+19.3 Axar Patel to Suresh Raina 1 Score: 168/3
+19.4 Axar Patel to Ishan Kishan 6 Score: 174/3
+19.5 Axar Patel to Ishan Kishan 0 Score: 174/3
+19.6 Axar Patel to Ishan Kishan 2 Score: 176/3
++-------------------+--------+---------+--------+-------------------------+
+| Player            |   Runs |   Balls | SR     | Out                     |
++===================+========+=========+========+=========================+
+| RD Chahar         |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| SN Thakur         |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| DA Warner         |     42 |      24 | 175.0  | Run Out (1r) b AR Patel |
++-------------------+--------+---------+--------+-------------------------+
+| Ishan Kishan      |      8 |       4 | 200.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| R Ashwin          |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| Avesh Khan        |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| RG Sharma         |     68 |      52 | 130.77 | Caught b GJ Maxwell     |
++-------------------+--------+---------+--------+-------------------------+
+| F du Plessis      |      9 |      11 | 81.82  | Caught b KK Ahmed       |
++-------------------+--------+---------+--------+-------------------------+
+| Washington Sundar |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
+| SK Raina          |     44 |      29 | 151.72 | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| NA Saini          |      0 |       0 | NA     | DNB                     |
++-------------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| S Dhawan          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |     18 |       3 |         1 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+| KK Ahmed          |     46 |       4 |         1 | 11.5  |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     21 |       3 |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| SA Yadav          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DJ Bravo          |     38 |       3 |         0 | 12.67 |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     17 |       4 |         0 | 4.25  |
++-------------------+--------+---------+-----------+-------+
+| PP Shaw           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KS Williamson     |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AR Patel          |     32 |       3 |         0 | 10.67 |
++-------------------+--------+---------+-----------+-------+
+0.1 Ravichandran Ashwin to Prithvi Shaw 1 Score: 1/0
+0.2 Ravichandran Ashwin to Shikhar Dhawan 1 B! Score: 2/0
+0.3 Ravichandran Ashwin to Prithvi Shaw 1 Score: 3/0
+0.4 Ravichandran Ashwin to Shikhar Dhawan 1 Score: 4/0
+0.5 Ravichandran Ashwin to Prithvi Shaw W Score: 4/1 Bowled
+0.6 Ravichandran Ashwin to Sanju Samson 0 Score: 4/1
+1.1 Washington Sundar to Shikhar Dhawan 0 Score: 4/1
+1.2 Washington Sundar to Shikhar Dhawan 1 Score: 5/1
+1.3 Washington Sundar to Sanju Samson W Score: 5/2 Caught
+1.4 Washington Sundar to Kane Williamson 1 Score: 6/2
+1.5 Washington Sundar to Shikhar Dhawan 4 Score: 10/2
+1.6 Washington Sundar to Shikhar Dhawan 4 Score: 14/2
+2.1 Rahul Chahar to Kane Williamson 0 Score: 14/2
+2.2 Rahul Chahar to Kane Williamson W Score: 14/3 Caught
+2.3 Rahul Chahar to Suryakumar Yadav 4 Score: 18/3
+2.4 Rahul Chahar to Suryakumar Yadav W Score: 18/4 Caught
+2.5 Rahul Chahar to Glenn Maxwell 1 Score: 19/4
+2.6 Rahul Chahar to Shikhar Dhawan 1 Score: 20/4
+3.1 Shardul Thakur to Shikhar Dhawan 0 Score: 20/4
+3.2 Shardul Thakur to Shikhar Dhawan 4 Score: 24/4
+3.3 Shardul Thakur to Shikhar Dhawan 2 Score: 26/4
+3.4 Shardul Thakur to Shikhar Dhawan 1 Score: 27/4
+3.5 Shardul Thakur to Glenn Maxwell 0 Score: 27/4
+3.6 Shardul Thakur to Glenn Maxwell 4 Score: 31/4
+4.1 Avesh Khan to Shikhar Dhawan 0 Score: 31/4
+4.2 Avesh Khan to Shikhar Dhawan W Score: 31/5 Caught
+4.3 Avesh Khan to Dwayne Bravo 6 Score: 37/5
+4.4 Avesh Khan to Dwayne Bravo Wide Score: 38/5
+4.4 Avesh Khan to Dwayne Bravo 4 Score: 42/5
+4.5 Avesh Khan to Dwayne Bravo 1 Score: 43/5
+4.6 Avesh Khan to Glenn Maxwell 6 Score: 49/5
+5.1 Ravichandran Ashwin to Dwayne Bravo W Score: 49/6 Caught
+5.2 Ravichandran Ashwin to Chris Morris 0 Score: 49/6
+5.3 Ravichandran Ashwin to Chris Morris 1 Score: 50/6
+5.4 Ravichandran Ashwin to Glenn Maxwell 2 Score: 52/6
+5.5 Ravichandran Ashwin to Glenn Maxwell 1 Score: 53/6
+5.6 Ravichandran Ashwin to Chris Morris 1 Score: 54/6
+6.1 Washington Sundar to Chris Morris 0 Score: 54/6
+6.2 Washington Sundar to Chris Morris 1 Score: 55/6
+6.3 Washington Sundar to Glenn Maxwell 1 Score: 56/6
+6.4 Washington Sundar to Chris Morris 0 Score: 56/6
+6.5 Washington Sundar to Chris Morris 0 Score: 56/6
+6.6 Washington Sundar to Chris Morris 0 Score: 56/6
+7.1 Navdeep Saini to Glenn Maxwell 0 Score: 56/6
+7.2 Navdeep Saini to Glenn Maxwell 1 Score: 57/6
+7.3 Navdeep Saini to Chris Morris Wide Score: 58/6
+7.3 Navdeep Saini to Chris Morris 4 Score: 62/6
+7.4 Navdeep Saini to Chris Morris 1 Score: 63/6
+7.5 Navdeep Saini to Glenn Maxwell 6 Score: 69/6
+7.6 Navdeep Saini to Glenn Maxwell 0 Score: 69/6
+8.1 Rahul Chahar to Chris Morris 0 Score: 69/6
+8.2 Rahul Chahar to Chris Morris 0 Score: 69/6
+8.3 Rahul Chahar to Chris Morris 0 Score: 69/6
+8.4 Rahul Chahar to Chris Morris 1 Score: 70/6
+8.5 Rahul Chahar to Glenn Maxwell 2 LB! Score: 72/6
+8.6 Rahul Chahar to Glenn Maxwell 0 Score: 72/6
+9.1 Shardul Thakur to Chris Morris 0 Score: 72/6
+9.2 Shardul Thakur to Chris Morris Wide Score: 73/6
+9.2 Shardul Thakur to Chris Morris 0 Score: 73/6
+9.3 Shardul Thakur to Chris Morris 1 Score: 74/6
+9.4 Shardul Thakur to Glenn Maxwell 1 Score: 75/6
+9.5 Shardul Thakur to Chris Morris 4 LB! Score: 79/6
+9.6 Shardul Thakur to Chris Morris 0 Score: 79/6
+10.1 Avesh Khan to Glenn Maxwell 1 Score: 80/6
+10.2 Avesh Khan to Chris Morris W Score: 80/7 Caught
+10.3 Avesh Khan to Axar Patel 1 Score: 81/7
+10.4 Avesh Khan to Glenn Maxwell 0 Score: 81/7
+10.5 Avesh Khan to Glenn Maxwell 0 Score: 81/7
+10.6 Avesh Khan to Glenn Maxwell 0 Score: 81/7
+11.1 Ravichandran Ashwin to Axar Patel 1 Score: 82/7
+11.2 Ravichandran Ashwin to Glenn Maxwell W Score: 82/8 Bowled
+11.3 Ravichandran Ashwin to Khaleel Ahmed W Score: 82/9 Run Out (0r)
+11.4 Ravichandran Ashwin to Mustafizur Rahman 1 Score: 83/9
+11.5 Ravichandran Ashwin to Axar Patel 1 Score: 84/9
+11.6 Ravichandran Ashwin to Mustafizur Rahman 0 Score: 84/9
+12.1 Washington Sundar to Axar Patel 0 Score: 84/9
+12.2 Washington Sundar to Axar Patel 1 Score: 85/9
+12.3 Washington Sundar to Mustafizur Rahman W Score: 85/10 Caught
+dc won by 91 runs
++-------------------+--------+---------+--------+----------------------------+
+| Player            |   Runs |   Balls |     SR | Out                        |
++===================+========+=========+========+============================+
+| S Dhawan          |     18 |      13 | 138.46 | Caught b Avesh Khan        |
++-------------------+--------+---------+--------+----------------------------+
+| GJ Maxwell        |     24 |      19 | 126.32 | Bowled b R Ashwin          |
++-------------------+--------+---------+--------+----------------------------+
+| KK Ahmed          |      0 |       1 |   0    | Run Out (0r) b R Ashwin    |
++-------------------+--------+---------+--------+----------------------------+
+| Mustafizur Rahman |      1 |       3 |  33.33 | Caught b Washington Sundar |
++-------------------+--------+---------+--------+----------------------------+
+| SA Yadav          |      4 |       2 | 200    | Caught b RD Chahar         |
++-------------------+--------+---------+--------+----------------------------+
+| SV Samson         |      0 |       2 |   0    | Caught b Washington Sundar |
++-------------------+--------+---------+--------+----------------------------+
+| DJ Bravo          |     11 |       4 | 275    | Caught b R Ashwin          |
++-------------------+--------+---------+--------+----------------------------+
+| CH Morris         |     10 |      20 |  50    | Caught b Avesh Khan        |
++-------------------+--------+---------+--------+----------------------------+
+| PP Shaw           |      2 |       3 |  66.67 | Bowled b R Ashwin          |
++-------------------+--------+---------+--------+----------------------------+
+| KS Williamson     |      1 |       3 |  33.33 | Caught b RD Chahar         |
++-------------------+--------+---------+--------+----------------------------+
+| AR Patel          |      4 |       5 |  80    | Not out                    |
++-------------------+--------+---------+--------+----------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| RD Chahar         |      7 |     2   |         2 | 3.5   |
++-------------------+--------+---------+-----------+-------+
+| SN Thakur         |     14 |     2   |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| DA Warner         |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Ishan Kishan      |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Ashwin          |     11 |     3   |         3 | 3.67  |
++-------------------+--------+---------+-----------+-------+
+| Avesh Khan        |     20 |     2   |         2 | 10.0  |
++-------------------+--------+---------+-----------+-------+
+| RG Sharma         |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| F du Plessis      |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     13 |     2.3 |         2 | 5.2   |
++-------------------+--------+---------+-----------+-------+
+| SK Raina          |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     13 |     1   |         0 | 13.0  |
++-------------------+--------+---------+-----------+-------+

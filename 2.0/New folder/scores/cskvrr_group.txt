@@ -1,0 +1,321 @@
+['Shikhar Dhawan', 'Glenn Maxwell', 'Khaleel Ahmed', 'Mustafizur Rahman', 'Suryakumar Yadav', 'Sanju Samson', 'Dwayne Bravo', 'Chris Morris', 'Prithvi Shaw', 'Kane Williamson', 'Axar Patel']
+rr won the toss and chose to bat
+0.1 Chris Morris to Quinton de Kock 4 Score: 4/0
+0.2 Chris Morris to Quinton de Kock 1 LB! Score: 5/0
+0.3 Chris Morris to Mayank Agarwal 1 Score: 6/0
+0.4 Chris Morris to Quinton de Kock 0 Score: 6/0
+0.5 Chris Morris to Quinton de Kock 0 Score: 6/0
+0.6 Chris Morris to Quinton de Kock 2 Score: 8/0
+1.1 Khaleel Ahmed to Mayank Agarwal 0 Score: 8/0
+1.2 Khaleel Ahmed to Mayank Agarwal 1 Score: 9/0
+1.3 Khaleel Ahmed to Quinton de Kock 0 Score: 9/0
+1.4 Khaleel Ahmed to Quinton de Kock 0 Score: 9/0
+1.5 Khaleel Ahmed to Quinton de Kock 1 Score: 10/0
+1.6 Khaleel Ahmed to Mayank Agarwal 4 Score: 14/0
+2.1 Chris Morris to Quinton de Kock 4 Score: 18/0
+2.2 Chris Morris to Quinton de Kock 4 Score: 22/0
+2.3 Chris Morris to Quinton de Kock 4 Score: 26/0
+2.4 Chris Morris to Quinton de Kock 6 Score: 32/0
+2.5 Chris Morris to Quinton de Kock 4 Score: 36/0
+2.6 Chris Morris to Quinton de Kock 0 Score: 36/0
+3.1 Khaleel Ahmed to Mayank Agarwal 0 Score: 36/0
+3.2 Khaleel Ahmed to Mayank Agarwal 0 Score: 36/0
+3.3 Khaleel Ahmed to Mayank Agarwal 0 Score: 36/0
+3.4 Khaleel Ahmed to Mayank Agarwal 6 Score: 42/0
+3.5 Khaleel Ahmed to Mayank Agarwal 0 Score: 42/0
+3.6 Khaleel Ahmed to Mayank Agarwal Wide Score: 43/0
+3.6 Khaleel Ahmed to Mayank Agarwal 1 Score: 44/0
+4.1 Mustafizur Rahman to Mayank Agarwal 0 Score: 44/0
+4.2 Mustafizur Rahman to Mayank Agarwal 4 Score: 48/0
+4.3 Mustafizur Rahman to Mayank Agarwal 1 Score: 49/0
+4.4 Mustafizur Rahman to Quinton de Kock 2 Score: 51/0
+4.5 Mustafizur Rahman to Quinton de Kock 4 Score: 55/0
+4.6 Mustafizur Rahman to Quinton de Kock 6 Score: 61/0
+5.1 Dwayne Bravo to Mayank Agarwal 1 Score: 62/0
+5.2 Dwayne Bravo to Quinton de Kock 4 Score: 66/0
+5.3 Dwayne Bravo to Quinton de Kock 1 Score: 67/0
+5.4 Dwayne Bravo to Mayank Agarwal 4 Score: 71/0
+5.5 Dwayne Bravo to Mayank Agarwal 1 LB! Score: 72/0
+5.6 Dwayne Bravo to Quinton de Kock 2 Score: 74/0
+6.1 Glenn Maxwell to Mayank Agarwal 0 Score: 74/0
+6.2 Glenn Maxwell to Mayank Agarwal 4 Score: 78/0
+6.3 Glenn Maxwell to Mayank Agarwal W Score: 78/1 Bowled
+6.4 Glenn Maxwell to AB de Villiers 1 Score: 79/1
+6.5 Glenn Maxwell to Quinton de Kock 1 Score: 80/1
+6.6 Glenn Maxwell to AB de Villiers 0 Score: 80/1
+7.1 Axar Patel to Quinton de Kock 4 Score: 84/1
+7.2 Axar Patel to Quinton de Kock 6 Score: 90/1
+7.3 Axar Patel to Quinton de Kock 1 Score: 91/1
+7.4 Axar Patel to AB de Villiers 1 Score: 92/1
+7.5 Axar Patel to Quinton de Kock 2 Score: 94/1
+7.6 Axar Patel to Quinton de Kock 4 Score: 98/1
+8.1 Chris Morris to AB de Villiers 6 Score: 104/1
+8.2 Chris Morris to AB de Villiers 4 Score: 108/1
+8.3 Chris Morris to AB de Villiers 0 Score: 108/1
+8.4 Chris Morris to AB de Villiers 4 Score: 112/1
+8.5 Chris Morris to AB de Villiers 6 Score: 118/1
+8.6 Chris Morris to AB de Villiers 1 Score: 119/1
+9.1 Khaleel Ahmed to AB de Villiers 1 Score: 120/1
+9.2 Khaleel Ahmed to Quinton de Kock 1 Score: 121/1
+9.3 Khaleel Ahmed to AB de Villiers 1 Score: 122/1
+9.4 Khaleel Ahmed to Quinton de Kock 1 Score: 123/1
+9.5 Khaleel Ahmed to AB de Villiers 1 Score: 124/1
+9.6 Khaleel Ahmed to Quinton de Kock 1 Score: 125/1
+10.1 Mustafizur Rahman to Quinton de Kock 4 Score: 129/1
+10.2 Mustafizur Rahman to Quinton de Kock 0 Score: 129/1
+10.3 Mustafizur Rahman to Quinton de Kock 1 Score: 130/1
+10.4 Mustafizur Rahman to AB de Villiers 0 Score: 130/1
+10.5 Mustafizur Rahman to AB de Villiers 0 Score: 130/1
+10.6 Mustafizur Rahman to AB de Villiers 0 Score: 130/1
+11.1 Dwayne Bravo to Quinton de Kock 1 Score: 131/1
+11.2 Dwayne Bravo to AB de Villiers 0 Score: 131/1
+11.3 Dwayne Bravo to AB de Villiers 0 Score: 131/1
+11.4 Dwayne Bravo to AB de Villiers 1 Score: 132/1
+11.5 Dwayne Bravo to Quinton de Kock 2 Score: 134/1
+11.6 Dwayne Bravo to Quinton de Kock 1 Score: 135/1
+12.1 Glenn Maxwell to Quinton de Kock 0 Score: 135/1
+12.2 Glenn Maxwell to Quinton de Kock 1 Score: 136/1
+12.3 Glenn Maxwell to AB de Villiers 1 Score: 137/1
+12.4 Glenn Maxwell to Quinton de Kock 1 Score: 138/1
+12.5 Glenn Maxwell to AB de Villiers 1 Score: 139/1
+12.6 Glenn Maxwell to Quinton de Kock 0 Score: 139/1
+13.1 Axar Patel to AB de Villiers 6 Score: 145/1
+13.2 Axar Patel to AB de Villiers 1 Score: 146/1
+13.3 Axar Patel to Quinton de Kock 0 Score: 146/1
+13.4 Axar Patel to Quinton de Kock 0 Score: 146/1
+13.5 Axar Patel to Quinton de Kock 0 Score: 146/1
+13.6 Axar Patel to Quinton de Kock 1 Score: 147/1
+14.1 Chris Morris to Quinton de Kock 1 Score: 148/1
+14.2 Chris Morris to AB de Villiers 0 Score: 148/1
+14.3 Chris Morris to AB de Villiers 0 Score: 148/1
+14.4 Chris Morris to AB de Villiers 4 Score: 152/1
+14.5 Chris Morris to AB de Villiers 6 Score: 158/1
+14.6 Chris Morris to AB de Villiers 1 Score: 159/1
+15.1 Khaleel Ahmed to AB de Villiers 1 Score: 160/1
+15.2 Khaleel Ahmed to Quinton de Kock 4 Score: 164/1
+15.3 Khaleel Ahmed to Quinton de Kock 3 Score: 167/1
+15.4 Khaleel Ahmed to AB de Villiers 0 Score: 167/1
+15.5 Khaleel Ahmed to AB de Villiers 1 Score: 168/1
+15.6 Khaleel Ahmed to Quinton de Kock 1 B! Score: 169/1
+16.1 Mustafizur Rahman to Quinton de Kock 1 Score: 170/1
+16.2 Mustafizur Rahman to AB de Villiers 0 Score: 170/1
+16.3 Mustafizur Rahman to AB de Villiers 1 Score: 171/1
+16.4 Mustafizur Rahman to Quinton de Kock 0 Score: 171/1
+16.5 Mustafizur Rahman to Quinton de Kock 1 Score: 172/1
+16.6 Mustafizur Rahman to AB de Villiers 1 Score: 173/1
+17.1 Dwayne Bravo to AB de Villiers 6 Score: 179/1
+17.2 Dwayne Bravo to AB de Villiers 0 Score: 179/1
+17.3 Dwayne Bravo to AB de Villiers Wide Score: 180/1
+17.3 Dwayne Bravo to AB de Villiers 6 Score: 186/1
+17.4 Dwayne Bravo to AB de Villiers 1 Score: 187/1
+17.5 Dwayne Bravo to Quinton de Kock 1 Score: 188/1
+17.6 Dwayne Bravo to AB de Villiers 1 Score: 189/1
+18.1 Glenn Maxwell to AB de Villiers 4 Score: 193/1
+18.2 Glenn Maxwell to AB de Villiers 6 Score: 199/1
+18.3 Glenn Maxwell to AB de Villiers 1 Score: 200/1
+18.4 Glenn Maxwell to Quinton de Kock 0 Score: 200/1
+18.5 Glenn Maxwell to Quinton de Kock 1 Score: 201/1
+18.6 Glenn Maxwell to AB de Villiers 0 Score: 201/1
+19.1 Axar Patel to Quinton de Kock 1 LB! Score: 202/1
+19.2 Axar Patel to AB de Villiers 4 Score: 206/1
+19.3 Axar Patel to AB de Villiers 2 Score: 208/1
+19.4 Axar Patel to AB de Villiers 0 Score: 208/1
+19.5 Axar Patel to AB de Villiers 1 Score: 209/1
+19.6 Axar Patel to Quinton de Kock 0 Score: 209/1
++----------------+--------+---------+--------+---------------------+
+| Player         |   Runs |   Balls | SR     | Out                 |
++================+========+=========+========+=====================+
+| Mohammed Siraj |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| MA Agarwal     |     27 |      19 | 142.11 | Bowled b GJ Maxwell |
++----------------+--------+---------+--------+---------------------+
+| KA Pollard     |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| Kartik Tyagi   |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| YS Chahal      |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| AB de Villiers |     83 |      46 | 180.43 | Not out             |
++----------------+--------+---------+--------+---------------------+
+| K Rabada       |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| WP Saha        |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| AD Russell     |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| Lalit Yadav    |      0 |       0 | NA     | DNB                 |
++----------------+--------+---------+--------+---------------------+
+| Q de Kock      |     93 |      55 | 169.09 | Not out             |
++----------------+--------+---------+--------+---------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| S Dhawan          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |     22 |       3 |         1 | 7.33  |
++-------------------+--------+---------+-----------+-------+
+| KK Ahmed          |     29 |       4 |         0 | 7.25  |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     26 |       3 |         0 | 8.67  |
++-------------------+--------+---------+-----------+-------+
+| SA Yadav          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DJ Bravo          |     33 |       3 |         0 | 11.0  |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     62 |       4 |         0 | 15.5  |
++-------------------+--------+---------+-----------+-------+
+| PP Shaw           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| KS Williamson     |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AR Patel          |     33 |       3 |         0 | 11.0  |
++-------------------+--------+---------+-----------+-------+
+0.1 Kagiso Rabada to Prithvi Shaw 6 Score: 6/0
+0.2 Kagiso Rabada to Prithvi Shaw 0 Score: 6/0
+0.3 Kagiso Rabada to Prithvi Shaw 4 Score: 10/0
+0.4 Kagiso Rabada to Prithvi Shaw 1 Score: 11/0
+0.5 Kagiso Rabada to Shikhar Dhawan 0 Score: 11/0
+0.6 Kagiso Rabada to Shikhar Dhawan 1 Score: 12/0
+1.1 Andre Russell to Shikhar Dhawan 1 Score: 13/0
+1.2 Andre Russell to Prithvi Shaw 0 Score: 13/0
+1.3 Andre Russell to Prithvi Shaw 0 Score: 13/0
+1.4 Andre Russell to Prithvi Shaw Wide Score: 14/0
+1.4 Andre Russell to Prithvi Shaw 4 Score: 18/0
+1.5 Andre Russell to Prithvi Shaw 0 Score: 18/0
+1.6 Andre Russell to Prithvi Shaw 2 Score: 20/0
+2.1 Kagiso Rabada to Shikhar Dhawan W Score: 20/1 Stumped
+2.2 Kagiso Rabada to Sanju Samson 0 Score: 20/1
+2.3 Kagiso Rabada to Sanju Samson 0 Score: 20/1
+2.4 Kagiso Rabada to Sanju Samson 0 Score: 20/1
+2.5 Kagiso Rabada to Sanju Samson 0 Score: 20/1
+2.6 Kagiso Rabada to Sanju Samson 1 Score: 21/1
+3.1 Andre Russell to Sanju Samson 6 Score: 27/1
+3.2 Andre Russell to Sanju Samson 2 Score: 29/1
+3.3 Andre Russell to Sanju Samson 1 LB! Score: 30/1
+3.4 Andre Russell to Prithvi Shaw 1 Score: 31/1
+3.5 Andre Russell to Sanju Samson 0 Score: 31/1
+3.6 Andre Russell to Sanju Samson 1 B! Score: 32/1
+4.1 Yuzvendra Chahal to Sanju Samson 1 Score: 33/1
+4.2 Yuzvendra Chahal to Prithvi Shaw 4 Score: 37/1
+4.3 Yuzvendra Chahal to Prithvi Shaw 2 Score: 39/1
+4.4 Yuzvendra Chahal to Prithvi Shaw W Score: 39/2 Lbw
+4.5 Yuzvendra Chahal to Kane Williamson 1 Score: 40/2
+4.6 Yuzvendra Chahal to Sanju Samson 4 Score: 44/2
+5.1 Mohammed Siraj to Kane Williamson 1 Score: 45/2
+5.2 Mohammed Siraj to Sanju Samson 0 Score: 45/2
+5.3 Mohammed Siraj to Sanju Samson 0 Score: 45/2
+5.4 Mohammed Siraj to Sanju Samson 0 Score: 45/2
+5.5 Mohammed Siraj to Sanju Samson 6 Score: 51/2
+5.6 Mohammed Siraj to Sanju Samson Wide Score: 52/2
+5.6 Mohammed Siraj to Sanju Samson Wide Score: 53/2
+5.6 Mohammed Siraj to Sanju Samson 4 Score: 57/2
+6.1 Lalit Yadav to Kane Williamson 2 Score: 59/2
+6.2 Lalit Yadav to Kane Williamson W Score: 59/3 Caught
+6.3 Lalit Yadav to Suryakumar Yadav 4 Score: 63/3
+6.4 Lalit Yadav to Suryakumar Yadav 1 Score: 64/3
+6.5 Lalit Yadav to Sanju Samson 1 Score: 65/3
+6.6 Lalit Yadav to Suryakumar Yadav 0 Score: 65/3
+7.1 Kartik Tyagi to Sanju Samson 2 Score: 67/3
+7.2 Kartik Tyagi to Sanju Samson 4 Score: 71/3
+7.3 Kartik Tyagi to Sanju Samson 1 LB! Score: 72/3
+7.4 Kartik Tyagi to Suryakumar Yadav 0 Score: 72/3
+7.5 Kartik Tyagi to Suryakumar Yadav 1 Score: 73/3
+7.6 Kartik Tyagi to Sanju Samson 0 Score: 73/3
+8.1 Kagiso Rabada to Suryakumar Yadav 4 Score: 77/3
+8.2 Kagiso Rabada to Suryakumar Yadav 1 Score: 78/3
+8.3 Kagiso Rabada to Sanju Samson W Score: 78/4 Caught
+8.4 Kagiso Rabada to Glenn Maxwell 0 Score: 78/4
+8.5 Kagiso Rabada to Glenn Maxwell W Score: 78/5 Caught
+8.6 Kagiso Rabada to Dwayne Bravo 0 Score: 78/5
+9.1 Andre Russell to Suryakumar Yadav 0 Score: 78/5
+9.2 Andre Russell to Suryakumar Yadav 1 Score: 79/5
+9.3 Andre Russell to Dwayne Bravo W Score: 79/6 Caught
+9.4 Andre Russell to Chris Morris 4 Score: 83/6
+9.5 Andre Russell to Chris Morris 1 Score: 84/6
+9.6 Andre Russell to Suryakumar Yadav 6 Score: 90/6
+10.1 Yuzvendra Chahal to Chris Morris 6 Score: 96/6
+10.2 Yuzvendra Chahal to Chris Morris 0 Score: 96/6
+10.3 Yuzvendra Chahal to Chris Morris 1 Score: 97/6
+10.4 Yuzvendra Chahal to Suryakumar Yadav 1 Score: 98/6
+10.5 Yuzvendra Chahal to Chris Morris 1 Score: 99/6
+10.6 Yuzvendra Chahal to Suryakumar Yadav 4 LB! Score: 103/6
+11.1 Mohammed Siraj to Chris Morris 2 B! Score: 105/6
+11.2 Mohammed Siraj to Chris Morris W Score: 105/7 Caught
+11.3 Mohammed Siraj to Axar Patel 0 Score: 105/7
+11.4 Mohammed Siraj to Axar Patel 0 Score: 105/7
+11.5 Mohammed Siraj to Axar Patel 4 Score: 109/7
+11.6 Mohammed Siraj to Axar Patel 0 Score: 109/7
+12.1 Lalit Yadav to Suryakumar Yadav 0 Score: 109/7
+12.2 Lalit Yadav to Suryakumar Yadav 4 Score: 113/7
+12.3 Lalit Yadav to Suryakumar Yadav 1 Score: 114/7
+12.4 Lalit Yadav to Axar Patel W Score: 114/8 Caught
+12.5 Lalit Yadav to Khaleel Ahmed W Score: 115/9 Run Out (1r)
+12.6 Lalit Yadav to Mustafizur Rahman 1 Score: 116/9
+13.1 Kartik Tyagi to Mustafizur Rahman 0 Score: 116/9
+13.2 Kartik Tyagi to Mustafizur Rahman 2 Score: 118/9
+13.3 Kartik Tyagi to Mustafizur Rahman 0 Score: 118/9
+13.4 Kartik Tyagi to Mustafizur Rahman 4 Score: 122/9
+13.5 Kartik Tyagi to Mustafizur Rahman Wide Score: 123/9
+13.5 Kartik Tyagi to Mustafizur Rahman 1 Score: 124/9
+13.6 Kartik Tyagi to Suryakumar Yadav 0 Score: 124/9
+14.1 Kagiso Rabada to Mustafizur Rahman 0 Score: 124/9
+14.2 Kagiso Rabada to Mustafizur Rahman 1 Score: 125/9
+14.3 Kagiso Rabada to Suryakumar Yadav 1 Score: 126/9
+14.4 Kagiso Rabada to Mustafizur Rahman 0 Score: 126/9
+14.5 Kagiso Rabada to Mustafizur Rahman 0 Score: 126/9
+14.6 Kagiso Rabada to Mustafizur Rahman 0 Score: 126/9
+15.1 Andre Russell to Suryakumar Yadav 0 Score: 126/9
+15.2 Andre Russell to Suryakumar Yadav W Score: 126/10 Bowled
+rr won by 83 runs
++-------------------+--------+---------+--------+----------------------------+
+| Player            |   Runs |   Balls |     SR | Out                        |
++===================+========+=========+========+============================+
+| S Dhawan          |      2 |       4 |  50    | Stumped b K Rabada         |
++-------------------+--------+---------+--------+----------------------------+
+| GJ Maxwell        |      0 |       2 |   0    | Caught b K Rabada          |
++-------------------+--------+---------+--------+----------------------------+
+| KK Ahmed          |      1 |       1 | 100    | Run Out (1r) b Lalit Yadav |
++-------------------+--------+---------+--------+----------------------------+
+| Mustafizur Rahman |      9 |      11 |  81.82 | Not out                    |
++-------------------+--------+---------+--------+----------------------------+
+| SA Yadav          |     25 |      19 | 131.58 | Bowled b AD Russell        |
++-------------------+--------+---------+--------+----------------------------+
+| SV Samson         |     31 |      23 | 134.78 | Caught b K Rabada          |
++-------------------+--------+---------+--------+----------------------------+
+| DJ Bravo          |      0 |       2 |   0    | Caught b AD Russell        |
++-------------------+--------+---------+--------+----------------------------+
+| CH Morris         |     13 |       8 | 162.5  | Caught b Mohammed Siraj    |
++-------------------+--------+---------+--------+----------------------------+
+| PP Shaw           |     24 |      13 | 184.62 | Lbw b YS Chahal            |
++-------------------+--------+---------+--------+----------------------------+
+| KS Williamson     |      4 |       4 | 100    | Caught b Lalit Yadav       |
++-------------------+--------+---------+--------+----------------------------+
+| AR Patel          |      4 |       5 |  80    | Caught b Lalit Yadav       |
++-------------------+--------+---------+--------+----------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Mohammed Siraj |     17 |     2   |         1 | 8.5   |
++----------------+--------+---------+-----------+-------+
+| MA Agarwal     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| KA Pollard     |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Kartik Tyagi   |     15 |     2   |         0 | 7.5   |
++----------------+--------+---------+-----------+-------+
+| YS Chahal      |     21 |     2   |         1 | 10.5  |
++----------------+--------+---------+-----------+-------+
+| AB de Villiers |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| K Rabada       |     20 |     4   |         3 | 5.0   |
++----------------+--------+---------+-----------+-------+
+| WP Saha        |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| AD Russell     |     29 |     3.2 |         2 | 8.7   |
++----------------+--------+---------+-----------+-------+
+| Lalit Yadav    |     15 |     2   |         2 | 7.5   |
++----------------+--------+---------+-----------+-------+
+| Q de Kock      |      0 |     0   |         0 | NA    |
++----------------+--------+---------+-----------+-------+

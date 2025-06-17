@@ -1,0 +1,324 @@
+['Arshdeep Singh', 'Varun Chakravarthy', 'Shimron Hetmyer', 'Harpreet Brar', 'Jason Holder', 'Rashid Khan', 'Nitish Rana', 'Adam Milne', 'Rishabh Pant', 'Devdutt Padikkal', 'Nicholas Pooran']
+srh won the toss and chose to bat
+0.1 Arshdeep Singh to Yashasvi Jaiswal 0 Score: 0/0
+0.2 Arshdeep Singh to Yashasvi Jaiswal 1 Score: 1/0
+0.3 Arshdeep Singh to Rahul Tripathi 1 Score: 2/0
+0.4 Arshdeep Singh to Yashasvi Jaiswal 4 B! Score: 6/0
+0.5 Arshdeep Singh to Yashasvi Jaiswal Wide Score: 7/0
+0.5 Arshdeep Singh to Yashasvi Jaiswal 0 Score: 7/0
+0.6 Arshdeep Singh to Yashasvi Jaiswal 4 Score: 11/0
+1.1 Harpreet Brar to Rahul Tripathi 0 Score: 11/0
+1.2 Harpreet Brar to Rahul Tripathi 1 Score: 12/0
+1.3 Harpreet Brar to Yashasvi Jaiswal 4 Score: 16/0
+1.4 Harpreet Brar to Yashasvi Jaiswal 1 Score: 17/0
+1.5 Harpreet Brar to Rahul Tripathi 0 Score: 17/0
+1.6 Harpreet Brar to Rahul Tripathi 2 Score: 19/0
+2.1 Jason Holder to Yashasvi Jaiswal 0 Score: 19/0
+2.2 Jason Holder to Yashasvi Jaiswal 6 Score: 25/0
+2.3 Jason Holder to Yashasvi Jaiswal 0 Score: 25/0
+2.4 Jason Holder to Yashasvi Jaiswal 4 Score: 29/0
+2.5 Jason Holder to Yashasvi Jaiswal 0 Score: 29/0
+2.6 Jason Holder to Yashasvi Jaiswal 4 Score: 33/0
+3.1 Nitish Rana to Rahul Tripathi 0 Score: 33/0
+3.2 Nitish Rana to Rahul Tripathi 0 Score: 33/0
+3.3 Nitish Rana to Rahul Tripathi 4 LB! Score: 37/0
+3.4 Nitish Rana to Rahul Tripathi 0 Score: 37/0
+3.5 Nitish Rana to Rahul Tripathi 0 Score: 37/0
+3.6 Nitish Rana to Rahul Tripathi 1 Score: 38/0
+4.1 Arshdeep Singh to Rahul Tripathi 6 Score: 44/0
+4.2 Arshdeep Singh to Rahul Tripathi 4 Score: 48/0
+4.3 Arshdeep Singh to Rahul Tripathi 1 Score: 49/0
+4.4 Arshdeep Singh to Yashasvi Jaiswal Wide Score: 50/0
+4.4 Arshdeep Singh to Yashasvi Jaiswal 1 Score: 51/0
+4.5 Arshdeep Singh to Rahul Tripathi W Score: 51/1 Caught
+4.6 Arshdeep Singh to Sunil Narine 0 Score: 51/1
+5.1 Rashid Khan to Yashasvi Jaiswal 4 Score: 55/1
+5.2 Rashid Khan to Yashasvi Jaiswal 0 Score: 55/1
+5.3 Rashid Khan to Yashasvi Jaiswal 0 Score: 55/1
+5.4 Rashid Khan to Yashasvi Jaiswal 1 Score: 56/1
+5.5 Rashid Khan to Sunil Narine 1 Score: 57/1
+5.6 Rashid Khan to Yashasvi Jaiswal 1 Score: 58/1
+6.1 Varun Chakravarthy to Yashasvi Jaiswal 1 Score: 59/1
+6.2 Varun Chakravarthy to Sunil Narine 4 Score: 63/1
+6.3 Varun Chakravarthy to Sunil Narine 4 B! Score: 67/1
+6.4 Varun Chakravarthy to Sunil Narine 4 Score: 71/1
+6.5 Varun Chakravarthy to Sunil Narine W Score: 71/2 Bowled
+6.6 Varun Chakravarthy to Eoin Morgan 2 Score: 73/2
+7.1 Harpreet Brar to Yashasvi Jaiswal 0 Score: 73/2
+7.2 Harpreet Brar to Yashasvi Jaiswal 1 Score: 74/2
+7.3 Harpreet Brar to Eoin Morgan 0 Score: 74/2
+7.4 Harpreet Brar to Eoin Morgan 0 Score: 74/2
+7.5 Harpreet Brar to Eoin Morgan 1 Score: 75/2
+7.6 Harpreet Brar to Yashasvi Jaiswal 2 Score: 77/2
+8.1 Jason Holder to Eoin Morgan 2 Score: 79/2
+8.2 Jason Holder to Eoin Morgan 6 Score: 85/2
+8.3 Jason Holder to Eoin Morgan 0 Score: 85/2
+8.4 Jason Holder to Eoin Morgan 0 Score: 85/2
+8.5 Jason Holder to Eoin Morgan Wide Score: 86/2
+8.5 Jason Holder to Eoin Morgan 0 Score: 86/2
+8.6 Jason Holder to Eoin Morgan 1 Score: 87/2
+9.1 Nitish Rana to Eoin Morgan 0 Score: 87/2
+9.2 Nitish Rana to Eoin Morgan 0 Score: 87/2
+9.3 Nitish Rana to Eoin Morgan 1 Score: 88/2
+9.4 Nitish Rana to Yashasvi Jaiswal 6 Score: 94/2
+9.5 Nitish Rana to Yashasvi Jaiswal 4 Score: 98/2
+9.6 Nitish Rana to Yashasvi Jaiswal 2 Score: 100/2
+10.1 Arshdeep Singh to Eoin Morgan 0 Score: 100/2
+10.2 Arshdeep Singh to Eoin Morgan 0 Score: 100/2
+10.3 Arshdeep Singh to Eoin Morgan 1 Score: 101/2
+10.4 Arshdeep Singh to Yashasvi Jaiswal 4 Score: 105/2
+10.5 Arshdeep Singh to Yashasvi Jaiswal 1 Score: 106/2
+10.6 Arshdeep Singh to Eoin Morgan 0 Score: 106/2
+11.1 Rashid Khan to Yashasvi Jaiswal 1 Score: 107/2
+11.2 Rashid Khan to Eoin Morgan 3 Score: 110/2
+11.3 Rashid Khan to Yashasvi Jaiswal 0 Score: 110/2
+11.4 Rashid Khan to Yashasvi Jaiswal 1 Score: 111/2
+11.5 Rashid Khan to Eoin Morgan 1 Score: 112/2
+11.6 Rashid Khan to Yashasvi Jaiswal W Score: 112/3 Lbw
+12.1 Varun Chakravarthy to Eoin Morgan 1 Score: 113/3
+12.2 Varun Chakravarthy to Abdul Samad 0 Score: 113/3
+12.3 Varun Chakravarthy to Abdul Samad 0 Score: 113/3
+12.4 Varun Chakravarthy to Abdul Samad 1 Score: 114/3
+12.5 Varun Chakravarthy to Eoin Morgan 0 Score: 114/3
+12.6 Varun Chakravarthy to Eoin Morgan 0 Score: 114/3
+13.1 Harpreet Brar to Abdul Samad 1 Score: 115/3
+13.2 Harpreet Brar to Eoin Morgan 4 Score: 119/3
+13.3 Harpreet Brar to Eoin Morgan 1 Score: 120/3
+13.4 Harpreet Brar to Abdul Samad 1 Score: 121/3
+13.5 Harpreet Brar to Eoin Morgan 1 Score: 122/3
+13.6 Harpreet Brar to Abdul Samad 1 Score: 123/3
+14.1 Jason Holder to Abdul Samad 4 Score: 127/3
+14.2 Jason Holder to Abdul Samad 2 Score: 129/3
+14.3 Jason Holder to Abdul Samad 0 Score: 129/3
+14.4 Jason Holder to Abdul Samad 1 Score: 130/3
+14.5 Jason Holder to Eoin Morgan Wide Score: 131/3
+14.5 Jason Holder to Eoin Morgan W Score: 131/4 Caught
+14.6 Jason Holder to Krunal Pandya Wide Score: 132/4
+14.6 Jason Holder to Krunal Pandya 1 Score: 133/4
+15.1 Nitish Rana to Krunal Pandya Wide Score: 134/4
+15.1 Nitish Rana to Krunal Pandya 1 Score: 135/4
+15.2 Nitish Rana to Abdul Samad 0 Score: 135/4
+15.3 Nitish Rana to Abdul Samad 1 Score: 136/4
+15.4 Nitish Rana to Krunal Pandya 1 Score: 137/4
+15.5 Nitish Rana to Abdul Samad 4 Score: 141/4
+15.6 Nitish Rana to Abdul Samad 2 Score: 143/4
+16.1 Arshdeep Singh to Krunal Pandya 1 Score: 144/4
+16.2 Arshdeep Singh to Abdul Samad 4 Score: 148/4
+16.3 Arshdeep Singh to Abdul Samad 0 Score: 148/4
+16.4 Arshdeep Singh to Abdul Samad 1 Score: 149/4
+16.5 Arshdeep Singh to Krunal Pandya 1 B! Score: 150/4
+16.6 Arshdeep Singh to Abdul Samad 4 Score: 154/4
+17.1 Rashid Khan to Krunal Pandya 6 Score: 160/4
+17.2 Rashid Khan to Krunal Pandya 1 Score: 161/4
+17.3 Rashid Khan to Abdul Samad 6 Score: 167/4
+17.4 Rashid Khan to Abdul Samad 4 Score: 171/4
+17.5 Rashid Khan to Abdul Samad 1 Score: 172/4
+17.6 Rashid Khan to Krunal Pandya 1 Score: 173/4
+18.1 Varun Chakravarthy to Krunal Pandya 6 Score: 179/4
+18.2 Varun Chakravarthy to Krunal Pandya 1 Score: 180/4
+18.3 Varun Chakravarthy to Abdul Samad 1 Score: 181/4
+18.4 Varun Chakravarthy to Krunal Pandya 6 Score: 187/4
+18.5 Varun Chakravarthy to Krunal Pandya 0 Score: 187/4
+18.6 Varun Chakravarthy to Krunal Pandya 1 Score: 188/4
+19.1 Harpreet Brar to Krunal Pandya 6 Score: 194/4
+19.2 Harpreet Brar to Krunal Pandya 0 Score: 194/4
+19.3 Harpreet Brar to Krunal Pandya 2 Score: 196/4
+19.4 Harpreet Brar to Krunal Pandya 0 Score: 196/4
+19.5 Harpreet Brar to Krunal Pandya 0 Score: 196/4
+19.6 Harpreet Brar to Krunal Pandya 0 Score: 196/4
++-------------+--------+---------+--------+-------------------------+
+| Player      |   Runs |   Balls | SR     | Out                     |
++=============+========+=========+========+=========================+
+| HV Patel    |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| KH Pandya   |     34 |      19 | 178.95 | Not out                 |
++-------------+--------+---------+--------+-------------------------+
+| Abdul Samad |     39 |      22 | 177.27 | Not out                 |
++-------------+--------+---------+--------+-------------------------+
+| YBK Jaiswal |     54 |      32 | 168.75 | Lbw b Rashid Khan       |
++-------------+--------+---------+--------+-------------------------+
+| RA Tripathi |     16 |      15 | 106.67 | Caught b Arshdeep Singh |
++-------------+--------+---------+--------+-------------------------+
+| EJG Morgan  |     25 |      26 | 96.15  | Caught b JO Holder      |
++-------------+--------+---------+--------+-------------------------+
+| RA Jadeja   |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| SP Narine   |      9 |       6 | 150.0  | Bowled b CV Varun       |
++-------------+--------+---------+--------+-------------------------+
+| Shivam Mavi |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| RP Meredith |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
+| R Tewatia   |      0 |       0 | NA     | DNB                     |
++-------------+--------+---------+--------+-------------------------+
++----------------+--------+---------+-----------+-------+
+| Player         |   Runs |   Overs |   Wickets | Eco   |
++================+========+=========+===========+=======+
+| Arshdeep Singh |     36 |       4 |         1 | 9.0   |
++----------------+--------+---------+-----------+-------+
+| CV Varun       |     28 |       3 |         1 | 9.33  |
++----------------+--------+---------+-----------+-------+
+| SO Hetmyer     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| Harpreet Brar  |     29 |       4 |         0 | 7.25  |
++----------------+--------+---------+-----------+-------+
+| JO Holder      |     34 |       3 |         1 | 11.33 |
++----------------+--------+---------+-----------+-------+
+| Rashid Khan    |     32 |       3 |         1 | 10.67 |
++----------------+--------+---------+-----------+-------+
+| N Rana         |     24 |       3 |         0 | 8.0   |
++----------------+--------+---------+-----------+-------+
+| AF Milne       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| RR Pant        |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| D Padikkal     |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+| N Pooran       |      0 |       0 |         0 | NA    |
++----------------+--------+---------+-----------+-------+
+0.1 Shivam Mavi to Devdutt Padikkal Wide Score: 1/0
+0.1 Shivam Mavi to Devdutt Padikkal 1 Score: 2/0
+0.2 Shivam Mavi to Nitish Rana 0 Score: 2/0
+0.3 Shivam Mavi to Nitish Rana 6 Score: 8/0
+0.4 Shivam Mavi to Nitish Rana W Score: 8/1 Caught
+0.5 Shivam Mavi to Rishabh Pant 0 Score: 8/1
+0.6 Shivam Mavi to Rishabh Pant Wide Score: 9/1
+0.6 Shivam Mavi to Rishabh Pant 4 Score: 13/1
+1.1 Sunil Narine to Devdutt Padikkal 1 Score: 14/1
+1.2 Sunil Narine to Rishabh Pant W Score: 14/2 Run Out (0r)
+1.3 Sunil Narine to Nicholas Pooran 0 Score: 14/2
+1.4 Sunil Narine to Nicholas Pooran 6 Score: 20/2
+1.5 Sunil Narine to Nicholas Pooran 0 Score: 20/2
+1.6 Sunil Narine to Nicholas Pooran 1 Score: 21/2
+2.1 Harshal Patel to Nicholas Pooran 0 Score: 21/2
+2.2 Harshal Patel to Nicholas Pooran 1 Score: 22/2
+2.3 Harshal Patel to Devdutt Padikkal 4 Score: 26/2
+2.4 Harshal Patel to Devdutt Padikkal 1 LB! Score: 27/2
+2.5 Harshal Patel to Nicholas Pooran 4 Score: 31/2
+2.6 Harshal Patel to Nicholas Pooran 1 Score: 32/2
+3.1 Shivam Mavi to Nicholas Pooran 2 Score: 34/2
+3.2 Shivam Mavi to Nicholas Pooran 0 Score: 34/2
+3.3 Shivam Mavi to Nicholas Pooran 4 Score: 38/2
+3.4 Shivam Mavi to Nicholas Pooran 1 Score: 39/2
+3.5 Shivam Mavi to Devdutt Padikkal 2 Score: 41/2
+3.6 Shivam Mavi to Devdutt Padikkal 1 Score: 42/2
+4.1 Rahul Tewatia to Devdutt Padikkal 0 Score: 42/2
+4.2 Rahul Tewatia to Devdutt Padikkal 1 Score: 43/2
+4.3 Rahul Tewatia to Nicholas Pooran Wide Score: 44/2
+4.3 Rahul Tewatia to Nicholas Pooran 0 Score: 44/2
+4.4 Rahul Tewatia to Nicholas Pooran 0 Score: 44/2
+4.5 Rahul Tewatia to Nicholas Pooran 1 Score: 45/2
+4.6 Rahul Tewatia to Devdutt Padikkal 1 Score: 46/2
+5.1 Ravindra Jadeja to Devdutt Padikkal W Score: 46/3 Caught
+5.2 Ravindra Jadeja to Shimron Hetmyer 1 B! Score: 47/3
+5.3 Ravindra Jadeja to Nicholas Pooran 0 Score: 47/3
+5.4 Ravindra Jadeja to Nicholas Pooran 6 Score: 53/3
+5.5 Ravindra Jadeja to Nicholas Pooran 1 Score: 54/3
+5.6 Ravindra Jadeja to Shimron Hetmyer 1 Score: 55/3
+6.1 Sunil Narine to Shimron Hetmyer Wide Score: 56/3
+6.1 Sunil Narine to Shimron Hetmyer 2 Score: 58/3
+6.2 Sunil Narine to Shimron Hetmyer 6 Score: 64/3
+6.3 Sunil Narine to Shimron Hetmyer 1 Score: 65/3
+6.4 Sunil Narine to Nicholas Pooran W Score: 65/4 Caught
+6.5 Sunil Narine to Jason Holder 1 Score: 66/4
+6.6 Sunil Narine to Shimron Hetmyer 1 Score: 67/4
+7.1 Krunal Pandya to Shimron Hetmyer 0 Score: 67/4
+7.2 Krunal Pandya to Shimron Hetmyer 1 Score: 68/4
+7.3 Krunal Pandya to Jason Holder 2 B! Score: 70/4
+7.4 Krunal Pandya to Jason Holder 0 Score: 70/4
+7.5 Krunal Pandya to Jason Holder 0 Score: 70/4
+7.6 Krunal Pandya to Jason Holder 2 Score: 72/4
+8.1 Harshal Patel to Shimron Hetmyer 4 Score: 76/4
+8.2 Harshal Patel to Shimron Hetmyer W Score: 76/5 Caught
+8.3 Harshal Patel to Harpreet Brar 1 Score: 77/5
+8.4 Harshal Patel to Jason Holder 0 Score: 77/5
+8.5 Harshal Patel to Jason Holder 1 Score: 78/5
+8.6 Harshal Patel to Harpreet Brar 2 Score: 80/5
+9.1 Shivam Mavi to Jason Holder 1 Score: 81/5
+9.2 Shivam Mavi to Harpreet Brar 1 Score: 82/5
+9.3 Shivam Mavi to Jason Holder 0 Score: 82/5
+9.4 Shivam Mavi to Jason Holder W Score: 82/6 Caught
+9.5 Shivam Mavi to Rashid Khan 0 Score: 82/6
+9.6 Shivam Mavi to Rashid Khan 0 Score: 82/6
+10.1 Rahul Tewatia to Harpreet Brar W Score: 82/7 Caught
+10.2 Rahul Tewatia to Adam Milne 0 Score: 82/7
+10.3 Rahul Tewatia to Adam Milne 0 Score: 82/7
+10.4 Rahul Tewatia to Adam Milne 1 Score: 83/7
+10.5 Rahul Tewatia to Rashid Khan 1 Score: 84/7
+10.6 Rahul Tewatia to Adam Milne 1 Score: 85/7
+11.1 Ravindra Jadeja to Adam Milne 0 Score: 85/7
+11.2 Ravindra Jadeja to Adam Milne 0 Score: 85/7
+11.3 Ravindra Jadeja to Adam Milne 2 Score: 87/7
+11.4 Ravindra Jadeja to Adam Milne 2 Score: 89/7
+11.5 Ravindra Jadeja to Adam Milne 1 Score: 90/7
+11.6 Ravindra Jadeja to Rashid Khan 2 Score: 92/7
+12.1 Sunil Narine to Adam Milne 0 Score: 92/7
+12.2 Sunil Narine to Adam Milne 2 Score: 94/7
+12.3 Sunil Narine to Adam Milne 0 Score: 94/7
+12.4 Sunil Narine to Adam Milne 1 Score: 95/7
+12.5 Sunil Narine to Rashid Khan 2 Score: 97/7
+12.6 Sunil Narine to Rashid Khan 6 Score: 103/7
+13.1 Krunal Pandya to Adam Milne 0 Score: 103/7
+13.2 Krunal Pandya to Adam Milne 2 Score: 105/7
+13.3 Krunal Pandya to Adam Milne W Score: 105/8 Bowled
+13.4 Krunal Pandya to Varun Chakravarthy 1 Score: 106/8
+13.5 Krunal Pandya to Rashid Khan 0 Score: 106/8
+13.6 Krunal Pandya to Rashid Khan 0 Score: 106/8
+14.1 Harshal Patel to Varun Chakravarthy 1 Score: 107/8
+14.2 Harshal Patel to Rashid Khan 1 Score: 108/8
+14.3 Harshal Patel to Varun Chakravarthy 1 Score: 109/8
+14.4 Harshal Patel to Rashid Khan W Score: 109/9 Caught
+14.5 Harshal Patel to Arshdeep Singh 0 Score: 109/9
+14.6 Harshal Patel to Arshdeep Singh 1 Score: 110/9
+15.1 Shivam Mavi to Arshdeep Singh W Score: 110/10 Caught
+srh won by 86 runs
++----------------+--------+---------+--------+--------------------------+
+| Player         |   Runs |   Balls |     SR | Out                      |
++================+========+=========+========+==========================+
+| Arshdeep Singh |      1 |       3 |  33.33 | Caught b Shivam Mavi     |
++----------------+--------+---------+--------+--------------------------+
+| CV Varun       |      3 |       3 | 100    | Not out                  |
++----------------+--------+---------+--------+--------------------------+
+| SO Hetmyer     |     16 |      10 | 160    | Caught b HV Patel        |
++----------------+--------+---------+--------+--------------------------+
+| Harpreet Brar  |      4 |       4 | 100    | Caught b R Tewatia       |
++----------------+--------+---------+--------+--------------------------+
+| JO Holder      |      5 |      10 |  50    | Caught b Shivam Mavi     |
++----------------+--------+---------+--------+--------------------------+
+| Rashid Khan    |     12 |      10 | 120    | Caught b HV Patel        |
++----------------+--------+---------+--------+--------------------------+
+| N Rana         |      6 |       3 | 200    | Caught b Shivam Mavi     |
++----------------+--------+---------+--------+--------------------------+
+| AF Milne       |     12 |      16 |  75    | Bowled b KH Pandya       |
++----------------+--------+---------+--------+--------------------------+
+| RR Pant        |      4 |       3 | 133.33 | Run Out (0r) b SP Narine |
++----------------+--------+---------+--------+--------------------------+
+| D Padikkal     |     11 |      10 | 110    | Caught b RA Jadeja       |
++----------------+--------+---------+--------+--------------------------+
+| N Pooran       |     28 |      19 | 147.37 | Caught b SP Narine       |
++----------------+--------+---------+--------+--------------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| HV Patel    |     22 |     3   |         2 | 7.33  |
++-------------+--------+---------+-----------+-------+
+| KH Pandya   |      6 |     2   |         1 | 3.0   |
++-------------+--------+---------+-----------+-------+
+| Abdul Samad |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| YBK Jaiswal |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Tripathi |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| EJG Morgan  |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RA Jadeja   |     15 |     2   |         1 | 7.5   |
++-------------+--------+---------+-----------+-------+
+| SP Narine   |     31 |     3   |         1 | 10.33 |
++-------------+--------+---------+-----------+-------+
+| Shivam Mavi |     25 |     3.1 |         3 | 7.89  |
++-------------+--------+---------+-----------+-------+
+| RP Meredith |      0 |     0   |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| R Tewatia   |      7 |     2   |         1 | 3.5   |
++-------------+--------+---------+-----------+-------+
