@@ -1,0 +1,163 @@
+{% extends "base.html" %}
+
+{% block title %}Tournament Dashboard - IPL Simulator{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+    <h2>Tournament Dashboard</h2>
+
+    <!-- Points Table Section -->
+    <section class="dashboard-section card">
+        <h3>Points Table</h3>
+        {% if points_table %}
+            <table class="table-styled">
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>P</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>T</th>
+                        <th>SO</th>
+                        <th>NRR</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for team_stats in points_table %}
+                    <tr>
+                        <td>
+                            {% set team_code_lower = team_stats.Team.lower() %}
+                            {% if team_data_all and team_data_all[team_code_lower] and team_data_all[team_code_lower].logo_filename %}
+                                <img src="{{ url_for('static', filename='images/logos/' + team_data_all[team_code_lower].logo_filename ) }}" alt="{{ team_stats.Team }} logo" class="team-logo-small">
+                            {% elif team_data_all and team_data_all[team_code_lower] and team_data_all[team_code_lower].logo %}
+                                <!-- Fallback if logo_filename is not present but logo is -->
+                                <img src="{{ url_for('static', filename='images/logos/' + team_data_all[team_code_lower].logo ) }}" alt="{{ team_stats.Team }} logo" class="team-logo-small">
+                            {% endif %}
+                            {{ team_data_all[team_code_lower].name if team_data_all and team_data_all[team_code_lower] else team_stats.Team }}
+                        </td>
+                        <td>{{ team_stats.Played }}</td>
+                        <td>{{ team_stats.Won }}</td>
+                        <td>{{ team_stats.Lost }}</td>
+                        <td>{{ team_stats.Tied }}</td>
+                        <td>{{ team_stats.SO }}</td>
+                        <td>{{ team_stats.NRR }}</td>
+                        <td><b>{{ team_stats.Points }}</b></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p>No points table data available yet. Start the tournament or simulate matches.</p>
+        {% endif %}
+    </section>
+
+    <!-- Match Simulation Control & Upcoming Fixtures -->
+    {% if not league_complete %}
+        <section class="dashboard-section card">
+            <h3>League Phase</h3>
+            <p>Played: {{ current_fixture_idx }} / {{ total_fixtures }} league matches.</p>
+            {% if upcoming_fixtures %}
+                <h4>Upcoming Matches:</h4>
+                <div class="fixture-list">
+                    {% for fixture in upcoming_fixtures %}
+                        <div class="fixture-item">
+                            <span>
+                                {{ team_data_all[fixture.team1_code.lower()].name if team_data_all and fixture.team1_code.lower() in team_data_all else fixture.team1_code.upper() }}
+                                vs
+                                {{ team_data_all[fixture.team2_code.lower()].name if team_data_all and fixture.team2_code.lower() in team_data_all else fixture.team2_code.upper() }}
+                                {% if fixture.is_rain_affected %} (Rain Possible) {% endif %}
+                            </span>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="simulation-actions" style="margin-top: 15px;">
+                    <form action="{{ url_for('simulate_next_league_match') }}" method="post" style="display: inline-block;">
+                        <button type="submit" class="btn">Simulate Next Match</button>
+                    </form>
+                    <form action="{{ url_for('simulate_round') }}" method="post" style="display: inline-block; margin-left: 10px;">
+                        <button type="submit" class="btn">Simulate Full Round ({{ [4, upcoming_fixtures|length]|min }} Matches)</button>
+                    </form>
+                </div>
+            {% else %}
+                <p>All league matches have been scheduled or played. If not complete, an error might have occurred.</p>
+            {% endif %}
+        </section>
+    {% elif not tournament_winner %}
+         <section class="dashboard-section card">
+            <h3>League Phase Complete!</h3>
+            <p>Proceed to Playoffs.</p>
+        </section>
+    {% endif %}
+
+    <!-- Playoff Section -->
+    {% if league_complete and playoff_fixtures and not tournament_winner %}
+        <section class="dashboard-section card">
+            <h3>Playoffs</h3>
+            <div class="fixture-list">
+                {% for fixture in playoff_fixtures %}
+                    <div class="fixture-item">
+                        <span><b>{{ fixture.name }}</b>:
+                            {{ team_data_all[fixture.team1_code.lower()].name if team_data_all and fixture.team1_code.lower() in team_data_all else fixture.team1_code.upper() }}
+                            vs
+                            {{ team_data_all[fixture.team2_code.lower()].name if team_data_all and fixture.team2_code.lower() in team_data_all else fixture.team2_code.upper() }}
+                        </span>
+                        {% if fixture.played %}
+                            <span style="margin-left: 10px;">(Winner: {{ team_data_all[fixture.winner.lower()].name if team_data_all and fixture.winner.lower() in team_data_all else fixture.winner.upper() }})
+                                {% if fixture.res_list_id is defined %}
+                                    {# Find the index of the match in played_match_results based on matchID #}
+                                    {% set match_detail_idx = -1 %}
+                                    {% for played_match in played_matches %}
+                                        {% if played_match.matchID == fixture.res_list_id %}
+                                            {% set match_detail_idx = loop.index0 %}
+                                        {% endif %}
+                                    {% endfor %}
+                                    {% if match_detail_idx != -1 %}
+                                        <a href="{{ url_for('match_detail', match_idx=match_detail_idx ) }}">View Details</a>
+                                    {% else %}
+                                        (Details link not available)
+                                    {% endif %}
+                                {% endif %}
+                            </span>
+                        {% elif fixture.team1_code and fixture.team2_code %}
+                            <form action="{{ url_for('simulate_playoff_match', fixture_name_encoded=fixture.name.lower().replace(' ', '_')) }}" method="post" style="display: inline-block; margin-left: 10px;">
+                                <button type="submit" class="btn">Simulate {{ fixture.name }}</button>
+                            </form>
+                        {% else %}
+                            <span style="margin-left: 10px;">(Teams TBD)</span>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+    {% endif %}
+
+    <!-- Tournament Winner Section -->
+    {% if tournament_winner %}
+        <section class="dashboard-section card" style="text-align: center; background-color: var(--primary-color); color: var(--button-text);">
+            <h2>🏆 Tournament Winner! 🏆</h2>
+            <h3>{{ team_data_all[tournament_winner.lower()].fullName if team_data_all and tournament_winner.lower() in team_data_all and team_data_all[tournament_winner.lower()].fullName else tournament_winner.upper() }}</h3>
+        </section>
+    {% endif %}
+
+    <!-- Played Match Summaries Section -->
+    <section class="dashboard-section card">
+        <h3>Played Match Results (Recent First)</h3>
+        {% if played_matches %}
+            <ul>
+                {% for match_res in played_matches | reverse %}
+                    <li>
+                        {{ team_data_all[match_res.innings1BatTeam.lower()].name if team_data_all and match_res.innings1BatTeam.lower() in team_data_all else match_res.innings1BatTeam.upper() }}
+                        vs
+                        {{ team_data_all[match_res.innings2BatTeam.lower()].name if team_data_all and match_res.innings2BatTeam.lower() in team_data_all else match_res.innings2BatTeam.upper() }}:
+                        <strong>{{ match_res.winMsg }}</strong>
+                        (<a href="{{ url_for('match_detail', match_idx=loop.revindex0 ) }}">View Details</a>)
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>No matches played yet.</p>
+        {% endif %}
+    </section>
+</div>
+{% endblock %}
