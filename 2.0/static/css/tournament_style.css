@@ -1,0 +1,307 @@
+:root {
+    --primary-bg: #ffffff;
+    --secondary-bg: #f8f9fa;
+    --text-color: #212529;
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --border-color: #dee2e6;
+    --link-color: #007bff;
+    --link-hover-color: #0056b3;
+    --button-bg: #007bff;
+    --button-text: #ffffff;
+    --button-hover-bg: #0056b3;
+    --header-bg: #e9ecef;
+    --header-text: #495057;
+    --footer-bg: #f1f1f1;
+    --footer-text: #6c757d;
+    --card-bg: #ffffff;
+    --card-border: #ced4da;
+    --table-border: #dee2e6;
+    --table-header-bg: #e9ecef;
+}
+
+[data-theme="dark"] {
+    --primary-bg: #212529;
+    --secondary-bg: #343a40;
+    --text-color: #f8f9fa;
+    --primary-color: #4dabf7;
+    --secondary-color: #adb5bd;
+    --border-color: #495057;
+    --link-color: #4dabf7;
+    --link-hover-color: #74c0fc;
+    --button-bg: #4dabf7;
+    --button-text: #212529;
+    --button-hover-bg: #74c0fc;
+    --header-bg: #343a40;
+    --header-text: #f8f9fa;
+    --footer-bg: #343a40;
+    --footer-text: #adb5bd;
+    --card-bg: #2c3034;
+    --card-border: #495057;
+    --table-border: #495057;
+    --table-header-bg: #343a40;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    line-height: 1.6;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: var(--secondary-bg);
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 1rem 0;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+header nav {
+    margin-top: 10px;
+}
+header nav a {
+    margin: 0 15px;
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+header nav a:hover {
+    color: var(--link-hover-color);
+}
+
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 30px;
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    border-top: 1px solid var(--border-color);
+}
+
+button, .btn {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--button-bg);
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    text-decoration: none; /* For .btn used on <a> tags */
+    display: inline-block; /* For .btn used on <a> tags */
+}
+
+button:hover, .btn:hover {
+    background-color: var(--button-hover-bg);
+    border-color: var(--button-hover-bg);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
+}
+
+#themeToggleBtn {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--button-bg);
+    border-radius: 5px;
+    padding: 8px 12px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 2000;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#themeToggleBtn:hover {
+    background-color: var(--button-hover-bg);
+}
+
+[data-theme="dark"] #themeToggleBtn {
+    background-color: var(--button-bg); /* Uses dark theme variable */
+    color: var(--button-text); /* Uses dark theme variable */
+    border-color: var(--button-bg); /* Uses dark theme variable */
+}
+
+[data-theme="dark"] #themeToggleBtn:hover {
+    background-color: var(--button-hover-bg); /* Uses dark theme variable */
+}
+
+.flashes {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 1em;
+}
+.flashes li {
+    padding: 0.75em;
+    margin-bottom: 0.5em;
+    border-radius: 4px;
+}
+.flashes li.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+.flashes li.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+.flashes li.info {
+    background-color: #cce5ff;
+    color: #004085;
+    border: 1px solid #b8daff;
+}
+
+/* Basic table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid var(--table-border);
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: var(--table-header-bg);
+}
+
+/* Card styling for dashboard items */
+.card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 1.25rem;
+}
+.card-header {
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.card-body p:last-child {
+    margin-bottom: 0;
+}
+
+/* Utility classes */
+.text-center {
+    text-align: center;
+}
+.mt-1 { margin-top: 0.25rem !important; }
+.mt-2 { margin-top: 0.5rem !important; }
+.mt-3 { margin-top: 1rem !important; }
+.mb-1 { margin-bottom: 0.25rem !important; }
+.mb-2 { margin-bottom: 0.5rem !important; }
+.mb-3 { margin-bottom: 1rem !important; }
+.p-1 { padding: 0.25rem !important; }
+.p-2 { padding: 0.5rem !important; }
+.p-3 { padding: 1rem !important; }
+
+/* Responsive container */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 2rem;
+    }
+    header nav a {
+        margin: 0 10px;
+    }
+}
+
+/* Forms */
+form button {
+    margin-top: 10px;
+}
+form {
+    margin-bottom: 1rem; /* Add some space below forms */
+}
+ul {
+    padding-left: 20px; /* Indent lists slightly */
+}
+li {
+    margin-bottom: 5px; /* Space out list items */
+}
+
+/* Match detail page specific (example) */
+.scorecard-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.innings-card {
+    flex: 1;
+    min-width: 300px; /* Ensure cards don't get too squished */
+    padding: 15px;
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 5px;
+}
+.commentary-section {
+    margin-top: 20px;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid var(--border-color);
+    padding: 10px;
+}
+.commentary-section h3 {
+    margin-top: 0;
+}
+.commentary-section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.commentary-section li {
+    padding: 5px 0;
+    border-bottom: 1px dashed var(--border-color);
+}
+.commentary-section li:last-child {
+    border-bottom: none;
+}
+
+/* Dashboard button groups */
+.dashboard-actions {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: var(--secondary-bg);
+    border-radius: 5px;
+    text-align: center;
+}
+.dashboard-actions form, .dashboard-actions .btn {
+    margin: 5px;
+    display: inline-block;
+}

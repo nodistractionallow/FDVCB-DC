@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}IPL Tournament Simulator{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tournament_style.css') }}">
+</head>
+<body>
+    <button id="themeToggleBtn">Toggle Theme</button>
+    <header>
+        <h1>IPL Tournament Simulator</h1>
+        <nav>
+            <a href="{{ url_for('home') }}">Home</a>
+            {% if session.get('tournament_data') %}
+            <a href="{{ url_for('tournament_dashboard') }}">Dashboard</a>
+            <a href="{{ url_for('player_stats') }}">Player Stats</a>
+            {% endif %}
+        </nav>
+    </header>
+    <main class="container">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <ul class=flashes>
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+    </main>
+    <footer>
+        <p>&copy; IPL Simulator 2.0</p>
+    </footer>
+
+    <script>
+        const themeToggleBtn = document.getElementById('themeToggleBtn');
+        const currentTheme = localStorage.getItem('theme');
+
+        if (currentTheme) {
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            if (currentTheme === 'dark') {
+                themeToggleBtn.textContent = 'Switch to Light Theme';
+            } else {
+                themeToggleBtn.textContent = 'Switch to Dark Theme';
+            }
+        } else { // Default to light theme if nothing is stored
+            document.documentElement.setAttribute('data-theme', 'light');
+            themeToggleBtn.textContent = 'Switch to Dark Theme';
+        }
+
+        themeToggleBtn.addEventListener('click', function() {
+            let theme = document.documentElement.getAttribute('data-theme');
+            if (theme === 'dark') {
+                document.documentElement.setAttribute('data-theme', 'light');
+                localStorage.setItem('theme', 'light');
+                themeToggleBtn.textContent = 'Switch to Dark Theme';
+            } else {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                localStorage.setItem('theme', 'dark');
+                themeToggleBtn.textContent = 'Switch to Light Theme';
+            }
+        });
+    </script>
+</body>
+</html>
